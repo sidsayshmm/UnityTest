@@ -139,12 +139,12 @@ TextureImporter:
       name: Angle_000
       rect:
         serializedVersion: 2
-        x: 0
-        y: 9216
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3616
+        y: 5334
+        width: 124
+        height: 440
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4909091}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -161,12 +161,12 @@ TextureImporter:
       name: Angle_001
       rect:
         serializedVersion: 2
-        x: 512
-        y: 9216
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3490
+        y: 5334
+        width: 124
+        height: 440
+      alignment: 9
+      pivot: {x: 0.5322581, y: 0.4909091}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -183,12 +183,12 @@ TextureImporter:
       name: Angle_002
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 9216
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3608
+        y: 6669
+        width: 125
+        height: 441
+      alignment: 9
+      pivot: {x: 0.56, y: 0.48979592}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -205,12 +205,12 @@ TextureImporter:
       name: Angle_003
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 9216
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3614
+        y: 6226
+        width: 130
+        height: 441
+      alignment: 9
+      pivot: {x: 0.5692308, y: 0.48979592}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -227,12 +227,12 @@ TextureImporter:
       name: Angle_004
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 9216
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3340
+        y: 6226
+        width: 135
+        height: 441
+      alignment: 9
+      pivot: {x: 0.5777778, y: 0.48979592}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -249,12 +249,12 @@ TextureImporter:
       name: Angle_005
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 9216
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3624
+        y: 5776
+        width: 140
+        height: 441
+      alignment: 9
+      pivot: {x: 0.5857143, y: 0.48979592}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -271,12 +271,12 @@ TextureImporter:
       name: Angle_006
       rect:
         serializedVersion: 2
-        x: 3072
-        y: 9216
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3644
+        y: 4884
+        width: 148
+        height: 440
+      alignment: 9
+      pivot: {x: 0.5810811, y: 0.4909091}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -293,12 +293,12 @@ TextureImporter:
       name: Angle_007
       rect:
         serializedVersion: 2
-        x: 3584
-        y: 9216
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3660
+        y: 3994
+        width: 156
+        height: 439
+      alignment: 9
+      pivot: {x: 0.5769231, y: 0.48974943}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -315,12 +315,12 @@ TextureImporter:
       name: Angle_008
       rect:
         serializedVersion: 2
-        x: 4096
-        y: 9216
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3132
+        y: 7297
+        width: 165
+        height: 439
+      alignment: 9
+      pivot: {x: 0.56969696, y: 0.48974943}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -337,12 +337,12 @@ TextureImporter:
       name: Angle_009
       rect:
         serializedVersion: 2
-        x: 4608
-        y: 9216
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3132
+        y: 5519
+        width: 173
+        height: 439
+      alignment: 9
+      pivot: {x: 0.56647396, y: 0.48974943}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -359,12 +359,12 @@ TextureImporter:
       name: Angle_010
       rect:
         serializedVersion: 2
-        x: 5120
-        y: 9216
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3132
+        y: 4184
+        width: 181
+        height: 437
+      alignment: 9
+      pivot: {x: 0.55801105, y: 0.48970252}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -381,12 +381,12 @@ TextureImporter:
       name: Angle_011
       rect:
         serializedVersion: 2
-        x: 5632
-        y: 9216
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2925
+        y: 7301
+        width: 189
+        height: 437
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.48970252}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -403,12 +403,12 @@ TextureImporter:
       name: Angle_012
       rect:
         serializedVersion: 2
-        x: 6144
-        y: 9216
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2925
+        y: 5092
+        width: 198
+        height: 436
+      alignment: 9
+      pivot: {x: 0.55050504, y: 0.4885321}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -425,12 +425,12 @@ TextureImporter:
       name: Angle_013
       rect:
         serializedVersion: 2
-        x: 6656
-        y: 9216
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3132
+        y: 3310
+        width: 206
+        height: 435
+      alignment: 9
+      pivot: {x: 0.5436893, y: 0.48965517}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -447,12 +447,12 @@ TextureImporter:
       name: Angle_014
       rect:
         serializedVersion: 2
-        x: 7168
-        y: 9216
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2691
+        y: 7101
+        width: 214
+        height: 433
+      alignment: 9
+      pivot: {x: 0.5420561, y: 0.4896074}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -469,12 +469,12 @@ TextureImporter:
       name: Angle_015
       rect:
         serializedVersion: 2
-        x: 7680
-        y: 9216
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2691
+        y: 5341
+        width: 223
+        height: 433
+      alignment: 9
+      pivot: {x: 0.5381166, y: 0.4896074}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -491,12 +491,12 @@ TextureImporter:
       name: Angle_016
       rect:
         serializedVersion: 2
-        x: 8192
-        y: 9216
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2691
+        y: 3589
+        width: 231
+        height: 431
+      alignment: 9
+      pivot: {x: 0.53246754, y: 0.48955917}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -513,12 +513,12 @@ TextureImporter:
       name: Angle_017
       rect:
         serializedVersion: 2
-        x: 8704
-        y: 9216
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2425
+        y: 6674
+        width: 239
+        height: 429
+      alignment: 9
+      pivot: {x: 0.5313808, y: 0.48951048}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -535,12 +535,12 @@ TextureImporter:
       name: Angle_018
       rect:
         serializedVersion: 2
-        x: 9216
-        y: 9216
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2425
+        y: 4934
+        width: 248
+        height: 428
+      alignment: 9
+      pivot: {x: 0.5282258, y: 0.48831776}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -557,12 +557,12 @@ TextureImporter:
       name: Angle_019
       rect:
         serializedVersion: 2
-        x: 0
-        y: 8704
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2425
+        y: 4078
+        width: 256
+        height: 426
+      alignment: 9
+      pivot: {x: 0.5234375, y: 0.48826292}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -579,12 +579,12 @@ TextureImporter:
       name: Angle_020
       rect:
         serializedVersion: 2
-        x: 512
-        y: 8704
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2133
+        y: 7483
+        width: 264
+        height: 424
+      alignment: 9
+      pivot: {x: 0.52272725, y: 0.48820755}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -601,12 +601,12 @@ TextureImporter:
       name: Angle_021
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 8704
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2133
+        y: 5763
+        width: 273
+        height: 422
+      alignment: 9
+      pivot: {x: 0.52014655, y: 0.48815167}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -623,12 +623,12 @@ TextureImporter:
       name: Angle_022
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 8704
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2133
+        y: 4473
+        width: 281
+        height: 420
+      alignment: 9
+      pivot: {x: 0.5160142, y: 0.48809522}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -645,12 +645,12 @@ TextureImporter:
       name: Angle_023
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 8704
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2133
+        y: 2765
+        width: 290
+        height: 418
+      alignment: 9
+      pivot: {x: 0.5137931, y: 0.48803827}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -667,12 +667,12 @@ TextureImporter:
       name: Angle_024
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 8704
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1809
+        y: 6715
+        width: 298
+        height: 416
+      alignment: 9
+      pivot: {x: 0.5100671, y: 0.48798078}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -689,12 +689,12 @@ TextureImporter:
       name: Angle_025
       rect:
         serializedVersion: 2
-        x: 3072
-        y: 8704
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1809
+        y: 5025
+        width: 305
+        height: 414
+      alignment: 9
+      pivot: {x: 0.5081967, y: 0.4879227}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -711,12 +711,12 @@ TextureImporter:
       name: Angle_026
       rect:
         serializedVersion: 2
-        x: 3584
-        y: 8704
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1809
+        y: 3346
+        width: 314
+        height: 411
+      alignment: 9
+      pivot: {x: 0.5063694, y: 0.4890511}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -733,12 +733,12 @@ TextureImporter:
       name: Angle_027
       rect:
         serializedVersion: 2
-        x: 4096
-        y: 8704
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1809
+        y: 2523
+        width: 322
+        height: 408
+      alignment: 9
+      pivot: {x: 0.5031056, y: 0.4877451}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -755,12 +755,12 @@ TextureImporter:
       name: Angle_028
       rect:
         serializedVersion: 2
-        x: 4608
-        y: 8704
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1286
+        y: 6689
+        width: 329
+        height: 406
+      alignment: 9
+      pivot: {x: 0.50151974, y: 0.48768473}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -777,12 +777,12 @@ TextureImporter:
       name: Angle_029
       rect:
         serializedVersion: 2
-        x: 5120
-        y: 8704
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1286
+        y: 5034
+        width: 337
+        height: 403
+      alignment: 9
+      pivot: {x: 0.49851632, y: 0.48883376}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -799,12 +799,12 @@ TextureImporter:
       name: Angle_030
       rect:
         serializedVersion: 2
-        x: 5632
-        y: 8704
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1286
+        y: 3391
+        width: 345
+        height: 400
+      alignment: 9
+      pivot: {x: 0.4985507, y: 0.4875}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -821,12 +821,12 @@ TextureImporter:
       name: Angle_031
       rect:
         serializedVersion: 2
-        x: 6144
-        y: 8704
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 895
+        y: 7686
+        width: 353
+        height: 397
+      alignment: 9
+      pivot: {x: 0.4957507, y: 0.48866498}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -843,12 +843,12 @@ TextureImporter:
       name: Angle_032
       rect:
         serializedVersion: 2
-        x: 6656
-        y: 8704
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 895
+        y: 6891
+        width: 360
+        height: 394
+      alignment: 9
+      pivot: {x: 0.49444443, y: 0.48730963}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -865,12 +865,12 @@ TextureImporter:
       name: Angle_033
       rect:
         serializedVersion: 2
-        x: 7168
-        y: 8704
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 895
+        y: 5279
+        width: 367
+        height: 390
+      alignment: 9
+      pivot: {x: 0.49046323, y: 0.4871795}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -887,12 +887,12 @@ TextureImporter:
       name: Angle_034
       rect:
         serializedVersion: 2
-        x: 7680
-        y: 8704
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 895
+        y: 3289
+        width: 374
+        height: 388
+      alignment: 9
+      pivot: {x: 0.4893048, y: 0.48711342}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -909,12 +909,12 @@ TextureImporter:
       name: Angle_035
       rect:
         serializedVersion: 2
-        x: 8192
-        y: 8704
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 895
+        y: 2095
+        width: 382
+        height: 384
+      alignment: 9
+      pivot: {x: 0.486911, y: 0.48697916}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -931,12 +931,12 @@ TextureImporter:
       name: Angle_036
       rect:
         serializedVersion: 2
-        x: 8704
-        y: 8704
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 895
+        y: 1327
+        width: 389
+        height: 380
+      alignment: 9
+      pivot: {x: 0.48586118, y: 0.4868421}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -953,12 +953,12 @@ TextureImporter:
       name: Angle_037
       rect:
         serializedVersion: 2
-        x: 9216
-        y: 8704
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 439
+        y: 6598
+        width: 396
+        height: 377
+      alignment: 9
+      pivot: {x: 0.4848485, y: 0.48806366}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -975,12 +975,12 @@ TextureImporter:
       name: Angle_038
       rect:
         serializedVersion: 2
-        x: 0
-        y: 8192
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 439
+        y: 5048
+        width: 403
+        height: 373
+      alignment: 9
+      pivot: {x: 0.48138958, y: 0.48793566}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -997,12 +997,12 @@ TextureImporter:
       name: Angle_039
       rect:
         serializedVersion: 2
-        x: 512
-        y: 8192
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 439
+        y: 4301
+        width: 410
+        height: 370
+      alignment: 9
+      pivot: {x: 0.4804878, y: 0.4864865}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1019,12 +1019,12 @@ TextureImporter:
       name: Angle_040
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 8192
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 439
+        y: 2773
+        width: 416
+        height: 366
+      alignment: 9
+      pivot: {x: 0.4783654, y: 0.4863388}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1041,12 +1041,12 @@ TextureImporter:
       name: Angle_041
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 8192
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 0
+        y: 7460
+        width: 423
+        height: 362
+      alignment: 9
+      pivot: {x: 0.47754136, y: 0.48618785}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1063,12 +1063,12 @@ TextureImporter:
       name: Angle_042
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 8192
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 0
+        y: 6378
+        width: 429
+        height: 357
+      alignment: 9
+      pivot: {x: 0.4755245, y: 0.48739496}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1085,12 +1085,12 @@ TextureImporter:
       name: Angle_043
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 8192
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 0
+        y: 5240
+        width: 435
+        height: 354
+      alignment: 9
+      pivot: {x: 0.47356322, y: 0.48870057}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1107,12 +1107,12 @@ TextureImporter:
       name: Angle_044
       rect:
         serializedVersion: 2
-        x: 3072
-        y: 8192
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 439
+        y: 2069
+        width: 441
+        height: 350
+      alignment: 9
+      pivot: {x: 0.47165534, y: 0.48857144}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1129,12 +1129,12 @@ TextureImporter:
       name: Angle_045
       rect:
         serializedVersion: 2
-        x: 3584
-        y: 8192
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 439
+        y: 1373
+        width: 447
+        height: 346
+      alignment: 9
+      pivot: {x: 0.46979865, y: 0.4884393}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1151,12 +1151,12 @@ TextureImporter:
       name: Angle_046
       rect:
         serializedVersion: 2
-        x: 4096
-        y: 8192
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 439
+        y: 685
+        width: 454
+        height: 342
+      alignment: 9
+      pivot: {x: 0.469163, y: 0.4883041}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1173,12 +1173,12 @@ TextureImporter:
       name: Angle_047
       rect:
         serializedVersion: 2
-        x: 4608
-        y: 8192
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 895
+        y: 685
+        width: 459
+        height: 337
+      alignment: 9
+      pivot: {x: 0.4684096, y: 0.48961425}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1195,12 +1195,12 @@ TextureImporter:
       name: Angle_048
       rect:
         serializedVersion: 2
-        x: 5120
-        y: 8192
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1817
+        y: 685
+        width: 464
+        height: 333
+      alignment: 9
+      pivot: {x: 0.46551725, y: 0.4894895}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1217,12 +1217,12 @@ TextureImporter:
       name: Angle_049
       rect:
         serializedVersion: 2
-        x: 5632
-        y: 8192
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2749
+        y: 685
+        width: 470
+        height: 328
+      alignment: 9
+      pivot: {x: 0.4638298, y: 0.49085367}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1239,12 +1239,12 @@ TextureImporter:
       name: Angle_050
       rect:
         serializedVersion: 2
-        x: 6144
-        y: 8192
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 4170
+        y: 685
+        width: 475
+        height: 324
+      alignment: 9
+      pivot: {x: 0.4631579, y: 0.49074075}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1261,12 +1261,12 @@ TextureImporter:
       name: Angle_051
       rect:
         serializedVersion: 2
-        x: 6656
-        y: 8192
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 4446
+        y: 362
+        width: 481
+        height: 320
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.490625}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1283,12 +1283,12 @@ TextureImporter:
       name: Angle_052
       rect:
         serializedVersion: 2
-        x: 7168
-        y: 8192
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 5416
+        y: 362
+        width: 485
+        height: 315
+      alignment: 9
+      pivot: {x: 0.4597938, y: 0.4920635}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1305,12 +1305,12 @@ TextureImporter:
       name: Angle_053
       rect:
         serializedVersion: 2
-        x: 7680
-        y: 8192
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 6931
+        y: 362
+        width: 491
+        height: 310
+      alignment: 9
+      pivot: {x: 0.45824847, y: 0.4903226}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1327,12 +1327,12 @@ TextureImporter:
       name: Angle_054
       rect:
         serializedVersion: 2
-        x: 8192
-        y: 8192
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 6182
+        y: 685
+        width: 495
+        height: 305
+      alignment: 9
+      pivot: {x: 0.45656565, y: 0.4918033}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1349,12 +1349,12 @@ TextureImporter:
       name: Angle_055
       rect:
         serializedVersion: 2
-        x: 8704
-        y: 8192
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1398
+        y: 1024
+        width: 501
+        height: 301
+      alignment: 9
+      pivot: {x: 0.4550898, y: 0.49169436}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1371,12 +1371,12 @@ TextureImporter:
       name: Angle_056
       rect:
         serializedVersion: 2
-        x: 9216
-        y: 8192
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2408
+        y: 1024
+        width: 505
+        height: 296
+      alignment: 9
+      pivot: {x: 0.45346534, y: 0.49324325}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1393,12 +1393,12 @@ TextureImporter:
       name: Angle_057
       rect:
         serializedVersion: 2
-        x: 0
-        y: 7680
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 4482
+        y: 1024
+        width: 509
+        height: 291
+      alignment: 9
+      pivot: {x: 0.45186642, y: 0.49140894}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1415,12 +1415,12 @@ TextureImporter:
       name: Angle_058
       rect:
         serializedVersion: 2
-        x: 512
-        y: 7680
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 6572
+        y: 1024
+        width: 513
+        height: 286
+      alignment: 9
+      pivot: {x: 0.4502924, y: 0.493007}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1437,12 +1437,12 @@ TextureImporter:
       name: Angle_059
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 7680
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 7087
+        y: 1024
+        width: 517
+        height: 281
+      alignment: 9
+      pivot: {x: 0.44874275, y: 0.4911032}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1459,12 +1459,12 @@ TextureImporter:
       name: Angle_060
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 7680
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1286
+        y: 1601
+        width: 521
+        height: 277
+      alignment: 9
+      pivot: {x: 0.4472169, y: 0.49097472}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1481,12 +1481,12 @@ TextureImporter:
       name: Angle_061
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 7680
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3965
+        y: 1327
+        width: 525
+        height: 272
+      alignment: 9
+      pivot: {x: 0.4457143, y: 0.49264705}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1503,12 +1503,12 @@ TextureImporter:
       name: Angle_062
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 7680
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 5578
+        y: 1327
+        width: 529
+        height: 267
+      alignment: 9
+      pivot: {x: 0.4442344, y: 0.4906367}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1525,12 +1525,12 @@ TextureImporter:
       name: Angle_063
       rect:
         serializedVersion: 2
-        x: 3072
-        y: 7680
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1809
+        y: 1601
+        width: 532
+        height: 262
+      alignment: 9
+      pivot: {x: 0.44360903, y: 0.4923664}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1547,12 +1547,12 @@ TextureImporter:
       name: Angle_064
       rect:
         serializedVersion: 2
-        x: 3584
-        y: 7680
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3977
+        y: 1601
+        width: 536
+        height: 256
+      alignment: 9
+      pivot: {x: 0.44216418, y: 0.4921875}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1569,12 +1569,12 @@ TextureImporter:
       name: Angle_065
       rect:
         serializedVersion: 2
-        x: 4096
-        y: 7680
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 6161
+        y: 1601
+        width: 539
+        height: 251
+      alignment: 9
+      pivot: {x: 0.43970317, y: 0.49003986}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1591,12 +1591,12 @@ TextureImporter:
       name: Angle_066
       rect:
         serializedVersion: 2
-        x: 4608
-        y: 7680
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 7243
+        y: 1601
+        width: 542
+        height: 246
+      alignment: 9
+      pivot: {x: 0.4391144, y: 0.49186993}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1613,12 +1613,12 @@ TextureImporter:
       name: Angle_067
       rect:
         serializedVersion: 2
-        x: 5120
-        y: 7680
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3465
+        y: 1865
+        width: 545
+        height: 240
+      alignment: 9
+      pivot: {x: 0.43669724, y: 0.49166667}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1635,12 +1635,12 @@ TextureImporter:
       name: Angle_068
       rect:
         serializedVersion: 2
-        x: 5632
-        y: 7680
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 5677
+        y: 1865
+        width: 548
+        height: 235
+      alignment: 9
+      pivot: {x: 0.4361314, y: 0.4893617}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1657,12 +1657,12 @@ TextureImporter:
       name: Angle_069
       rect:
         serializedVersion: 2
-        x: 6144
-        y: 7680
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2685
+        y: 2113
+        width: 550
+        height: 230
+      alignment: 9
+      pivot: {x: 0.43454546, y: 0.49130434}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1679,12 +1679,12 @@ TextureImporter:
       name: Angle_070
       rect:
         serializedVersion: 2
-        x: 6656
-        y: 7680
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 4919
+        y: 2113
+        width: 552
+        height: 224
+      alignment: 9
+      pivot: {x: 0.432971, y: 0.49107143}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1701,12 +1701,12 @@ TextureImporter:
       name: Angle_071
       rect:
         serializedVersion: 2
-        x: 7168
-        y: 7680
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 6605
+        y: 2113
+        width: 555
+        height: 218
+      alignment: 9
+      pivot: {x: 0.43243244, y: 0.49082568}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1723,12 +1723,12 @@ TextureImporter:
       name: Angle_072
       rect:
         serializedVersion: 2
-        x: 7680
-        y: 7680
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2425
+        y: 2559
+        width: 557
+        height: 213
+      alignment: 9
+      pivot: {x: 0.4308797, y: 0.49295774}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1745,12 +1745,12 @@ TextureImporter:
       name: Angle_073
       rect:
         serializedVersion: 2
-        x: 8192
-        y: 7680
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 4705
+        y: 2345
+        width: 559
+        height: 208
+      alignment: 9
+      pivot: {x: 0.4293381, y: 0.4903846}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1767,12 +1767,12 @@ TextureImporter:
       name: Angle_074
       rect:
         serializedVersion: 2
-        x: 8704
-        y: 7680
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 6973
+        y: 2345
+        width: 561
+        height: 202
+      alignment: 9
+      pivot: {x: 0.42780748, y: 0.490099}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1789,12 +1789,12 @@ TextureImporter:
       name: Angle_075
       rect:
         serializedVersion: 2
-        x: 9216
-        y: 7680
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 5254
+        y: 2559
+        width: 563
+        height: 196
+      alignment: 9
+      pivot: {x: 0.42628774, y: 0.48979592}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1811,12 +1811,12 @@ TextureImporter:
       name: Angle_076
       rect:
         serializedVersion: 2
-        x: 0
-        y: 7168
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 6969
+        y: 2559
+        width: 564
+        height: 191
+      alignment: 9
+      pivot: {x: 0.42375886, y: 0.4921466}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1833,12 +1833,12 @@ TextureImporter:
       name: Angle_077
       rect:
         serializedVersion: 2
-        x: 512
-        y: 7168
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2691
+        y: 2960
+        width: 565
+        height: 185
+      alignment: 9
+      pivot: {x: 0.42300886, y: 0.4918919}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1855,12 +1855,12 @@ TextureImporter:
       name: Angle_078
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 7168
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 4997
+        y: 2774
+        width: 567
+        height: 178
+      alignment: 9
+      pivot: {x: 0.42151675, y: 0.49438202}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1877,12 +1877,12 @@ TextureImporter:
       name: Angle_079
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 7168
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 7291
+        y: 2774
+        width: 567
+        height: 173
+      alignment: 9
+      pivot: {x: 0.41975307, y: 0.49710983}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1899,12 +1899,12 @@ TextureImporter:
       name: Angle_080
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 7168
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 5552
+        y: 2960
+        width: 568
+        height: 167
+      alignment: 9
+      pivot: {x: 0.4190141, y: 0.497006}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1921,12 +1921,12 @@ TextureImporter:
       name: Angle_081
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 7168
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3496
+        y: 3147
+        width: 569
+        height: 161
+      alignment: 9
+      pivot: {x: 0.41827768, y: 0.49689442}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1943,12 +1943,12 @@ TextureImporter:
       name: Angle_082
       rect:
         serializedVersion: 2
-        x: 3072
-        y: 7168
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 5227
+        y: 3147
+        width: 570
+        height: 156
+      alignment: 9
+      pivot: {x: 0.41578948, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1965,12 +1965,12 @@ TextureImporter:
       name: Angle_083
       rect:
         serializedVersion: 2
-        x: 3584
-        y: 7168
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 7531
+        y: 3147
+        width: 571
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4150613, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1987,12 +1987,12 @@ TextureImporter:
       name: Angle_084
       rect:
         serializedVersion: 2
-        x: 4096
-        y: 7168
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 5648
+        y: 3310
+        width: 571
+        height: 144
+      alignment: 9
+      pivot: {x: 0.41331, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2009,12 +2009,12 @@ TextureImporter:
       name: Angle_085
       rect:
         serializedVersion: 2
-        x: 4608
-        y: 7168
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3340
+        y: 3462
+        width: 571
+        height: 141
+      alignment: 9
+      pivot: {x: 0.41155866, y: 0.4964539}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2031,12 +2031,12 @@ TextureImporter:
       name: Angle_086
       rect:
         serializedVersion: 2
-        x: 5120
-        y: 7168
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3913
+        y: 3462
+        width: 572
+        height: 138
+      alignment: 9
+      pivot: {x: 0.4125874, y: 0.48550725}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2053,12 +2053,12 @@ TextureImporter:
       name: Angle_087
       rect:
         serializedVersion: 2
-        x: 5632
-        y: 7168
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3340
+        y: 3605
+        width: 573
+        height: 134
+      alignment: 9
+      pivot: {x: 0.41186735, y: 0.47761193}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2075,12 +2075,12 @@ TextureImporter:
       name: Angle_088
       rect:
         serializedVersion: 2
-        x: 6144
-        y: 7168
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 4492
+        y: 3605
+        width: 575
+        height: 130
+      alignment: 9
+      pivot: {x: 0.41217393, y: 0.46923077}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2097,12 +2097,12 @@ TextureImporter:
       name: Angle_089
       rect:
         serializedVersion: 2
-        x: 6656
-        y: 7168
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 5647
+        y: 3605
+        width: 576
+        height: 128
+      alignment: 9
+      pivot: {x: 0.41319445, y: 0.4609375}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2119,12 +2119,12 @@ TextureImporter:
       name: Angle_090
       rect:
         serializedVersion: 2
-        x: 7168
-        y: 7168
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3340
+        y: 3868
+        width: 576
+        height: 124
+      alignment: 9
+      pivot: {x: 0.41319445, y: 0.4516129}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2141,12 +2141,12 @@ TextureImporter:
       name: Angle_091
       rect:
         serializedVersion: 2
-        x: 7680
-        y: 7168
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 4499
+        y: 3741
+        width: 577
+        height: 125
+      alignment: 9
+      pivot: {x: 0.41247833, y: 0.448}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2163,12 +2163,12 @@ TextureImporter:
       name: Angle_092
       rect:
         serializedVersion: 2
-        x: 8192
-        y: 7168
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 6238
+        y: 3741
+        width: 578
+        height: 124
+      alignment: 9
+      pivot: {x: 0.4134948, y: 0.4516129}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2185,12 +2185,12 @@ TextureImporter:
       name: Angle_093
       rect:
         serializedVersion: 2
-        x: 8704
-        y: 7168
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 7387
+        y: 3605
+        width: 578
+        height: 125
+      alignment: 9
+      pivot: {x: 0.4134948, y: 0.456}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2207,12 +2207,12 @@ TextureImporter:
       name: Angle_094
       rect:
         serializedVersion: 2
-        x: 9216
-        y: 7168
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 5658
+        y: 3741
+        width: 578
+        height: 124
+      alignment: 9
+      pivot: {x: 0.4134948, y: 0.45967743}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2229,12 +2229,12 @@ TextureImporter:
       name: Angle_095
       rect:
         serializedVersion: 2
-        x: 0
-        y: 6656
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 6225
+        y: 3605
+        width: 579
+        height: 127
+      alignment: 9
+      pivot: {x: 0.41450778, y: 0.47244096}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2251,12 +2251,12 @@ TextureImporter:
       name: Angle_096
       rect:
         serializedVersion: 2
-        x: 512
-        y: 6656
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 5061
+        y: 3462
+        width: 579
+        height: 136
+      alignment: 9
+      pivot: {x: 0.41450778, y: 0.4632353}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2273,12 +2273,12 @@ TextureImporter:
       name: Angle_097
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 6656
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 6803
+        y: 3462
+        width: 578
+        height: 136
+      alignment: 9
+      pivot: {x: 0.4152249, y: 0.4852941}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2295,12 +2295,12 @@ TextureImporter:
       name: Angle_098
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 6656
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 6221
+        y: 3310
+        width: 579
+        height: 142
+      alignment: 9
+      pivot: {x: 0.41450778, y: 0.48591548}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2317,12 +2317,12 @@ TextureImporter:
       name: Angle_099
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 6656
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 4494
+        y: 3310
+        width: 579
+        height: 147
+      alignment: 9
+      pivot: {x: 0.41450778, y: 0.48979592}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2339,12 +2339,12 @@ TextureImporter:
       name: Angle_100
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 6656
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 6371
+        y: 3147
+        width: 578
+        height: 153
+      alignment: 9
+      pivot: {x: 0.4134948, y: 0.49019608}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2361,12 +2361,12 @@ TextureImporter:
       name: Angle_101
       rect:
         serializedVersion: 2
-        x: 3072
-        y: 6656
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 4067
+        y: 3147
+        width: 578
+        height: 157
+      alignment: 9
+      pivot: {x: 0.4134948, y: 0.49044585}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2383,12 +2383,12 @@ TextureImporter:
       name: Angle_102
       rect:
         serializedVersion: 2
-        x: 3584
-        y: 6656
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 6692
+        y: 2960
+        width: 578
+        height: 163
+      alignment: 9
+      pivot: {x: 0.4134948, y: 0.49079755}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2405,12 +2405,12 @@ TextureImporter:
       name: Angle_103
       rect:
         serializedVersion: 2
-        x: 4096
-        y: 6656
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 4973
+        y: 2960
+        width: 577
+        height: 168
+      alignment: 9
+      pivot: {x: 0.41247833, y: 0.4940476}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2427,12 +2427,12 @@ TextureImporter:
       name: Angle_104
       rect:
         serializedVersion: 2
-        x: 4608
-        y: 6656
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 6713
+        y: 2774
+        width: 576
+        height: 173
+      alignment: 9
+      pivot: {x: 0.41319445, y: 0.49710983}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2449,12 +2449,12 @@ TextureImporter:
       name: Angle_105
       rect:
         serializedVersion: 2
-        x: 5120
-        y: 6656
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 4420
+        y: 2774
+        width: 575
+        height: 179
+      alignment: 9
+      pivot: {x: 0.41217393, y: 0.49720672}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2471,12 +2471,12 @@ TextureImporter:
       name: Angle_106
       rect:
         serializedVersion: 2
-        x: 5632
-        y: 6656
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2691
+        y: 2774
+        width: 574
+        height: 184
+      alignment: 9
+      pivot: {x: 0.41289198, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2493,12 +2493,12 @@ TextureImporter:
       name: Angle_107
       rect:
         serializedVersion: 2
-        x: 6144
-        y: 6656
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 5819
+        y: 2559
+        width: 573
+        height: 189
+      alignment: 9
+      pivot: {x: 0.41186735, y: 0.5026455}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2515,12 +2515,12 @@ TextureImporter:
       name: Angle_108
       rect:
         serializedVersion: 2
-        x: 6656
-        y: 6656
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 4116
+        y: 2559
+        width: 571
+        height: 195
+      alignment: 9
+      pivot: {x: 0.41155866, y: 0.50256413}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2537,12 +2537,12 @@ TextureImporter:
       name: Angle_109
       rect:
         serializedVersion: 2
-        x: 7168
-        y: 6656
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 5827
+        y: 2345
+        width: 571
+        height: 200
+      alignment: 9
+      pivot: {x: 0.41155866, y: 0.505}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2559,12 +2559,12 @@ TextureImporter:
       name: Angle_110
       rect:
         serializedVersion: 2
-        x: 7680
-        y: 6656
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 4134
+        y: 2345
+        width: 569
+        height: 206
+      alignment: 9
+      pivot: {x: 0.4112478, y: 0.50970876}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2581,12 +2581,12 @@ TextureImporter:
       name: Angle_111
       rect:
         serializedVersion: 2
-        x: 8192
-        y: 6656
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2994
+        y: 2345
+        width: 567
+        height: 212
+      alignment: 9
+      pivot: {x: 0.41093475, y: 0.509434}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2603,12 +2603,12 @@ TextureImporter:
       name: Angle_112
       rect:
         serializedVersion: 2
-        x: 8704
-        y: 6656
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 6039
+        y: 2113
+        width: 564
+        height: 217
+      alignment: 9
+      pivot: {x: 0.4113475, y: 0.51152074}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2625,12 +2625,12 @@ TextureImporter:
       name: Angle_113
       rect:
         serializedVersion: 2
-        x: 9216
-        y: 6656
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3237
+        y: 2113
+        width: 562
+        height: 224
+      alignment: 9
+      pivot: {x: 0.41103202, y: 0.51339287}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2647,12 +2647,12 @@ TextureImporter:
       name: Angle_114
       rect:
         serializedVersion: 2
-        x: 0
-        y: 6144
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 6777
+        y: 1865
+        width: 559
+        height: 229
+      alignment: 9
+      pivot: {x: 0.4096601, y: 0.5152838}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2669,12 +2669,12 @@ TextureImporter:
       name: Angle_115
       rect:
         serializedVersion: 2
-        x: 512
-        y: 6144
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 4559
+        y: 1865
+        width: 557
+        height: 234
+      alignment: 9
+      pivot: {x: 0.40933573, y: 0.517094}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2691,12 +2691,12 @@ TextureImporter:
       name: Angle_116
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 6144
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2909
+        y: 1865
+        width: 554
+        height: 240
+      alignment: 9
+      pivot: {x: 0.4097473, y: 0.5208333}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2713,12 +2713,12 @@ TextureImporter:
       name: Angle_117
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 6144
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 5053
+        y: 1601
+        width: 552
+        height: 246
+      alignment: 9
+      pivot: {x: 0.40942028, y: 0.5203252}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2735,12 +2735,12 @@ TextureImporter:
       name: Angle_118
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 6144
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3427
+        y: 1601
+        width: 548
+        height: 251
+      alignment: 9
+      pivot: {x: 0.40875912, y: 0.52191234}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2757,12 +2757,12 @@ TextureImporter:
       name: Angle_119
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 6144
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 7187
+        y: 1327
+        width: 545
+        height: 257
+      alignment: 9
+      pivot: {x: 0.40917432, y: 0.5252918}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2779,12 +2779,12 @@ TextureImporter:
       name: Angle_120
       rect:
         serializedVersion: 2
-        x: 3072
-        y: 6144
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 5035
+        y: 1327
+        width: 541
+        height: 262
+      alignment: 9
+      pivot: {x: 0.4085028, y: 0.52671754}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2801,12 +2801,12 @@ TextureImporter:
       name: Angle_121
       rect:
         serializedVersion: 2
-        x: 3584
-        y: 6144
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2898
+        y: 1327
+        width: 538
+        height: 267
+      alignment: 9
+      pivot: {x: 0.40892193, y: 0.5280899}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2823,12 +2823,12 @@ TextureImporter:
       name: Angle_122
       rect:
         serializedVersion: 2
-        x: 4096
-        y: 6144
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1822
+        y: 1327
+        width: 534
+        height: 272
+      alignment: 9
+      pivot: {x: 0.4082397, y: 0.5294118}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2845,12 +2845,12 @@ TextureImporter:
       name: Angle_123
       rect:
         serializedVersion: 2
-        x: 4608
-        y: 6144
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 4993
+        y: 1024
+        width: 530
+        height: 279
+      alignment: 9
+      pivot: {x: 0.40754718, y: 0.53046596}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2867,12 +2867,12 @@ TextureImporter:
       name: Angle_124
       rect:
         serializedVersion: 2
-        x: 5120
-        y: 6144
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3443
+        y: 1024
+        width: 526
+        height: 283
+      alignment: 9
+      pivot: {x: 0.40874526, y: 0.5335689}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2889,12 +2889,12 @@ TextureImporter:
       name: Angle_125
       rect:
         serializedVersion: 2
-        x: 5632
-        y: 6144
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 6679
+        y: 685
+        width: 522
+        height: 289
+      alignment: 9
+      pivot: {x: 0.40804598, y: 0.53287196}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2911,12 +2911,12 @@ TextureImporter:
       name: Angle_126
       rect:
         serializedVersion: 2
-        x: 6144
-        y: 6144
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 4647
+        y: 685
+        width: 517
+        height: 293
+      alignment: 9
+      pivot: {x: 0.4081238, y: 0.53583616}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2933,12 +2933,12 @@ TextureImporter:
       name: Angle_127
       rect:
         serializedVersion: 2
-        x: 6656
-        y: 6144
+        x: 5903
+        y: 362
         width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        height: 298
+      alignment: 9
+      pivot: {x: 0.40820312, y: 0.53691274}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2955,12 +2955,12 @@ TextureImporter:
       name: Angle_128
       rect:
         serializedVersion: 2
-        x: 7168
-        y: 6144
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2943
+        y: 362
+        width: 508
+        height: 304
+      alignment: 9
+      pivot: {x: 0.40748033, y: 0.5394737}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2977,12 +2977,12 @@ TextureImporter:
       name: Angle_129
       rect:
         serializedVersion: 2
-        x: 7680
-        y: 6144
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1933
+        y: 362
+        width: 503
+        height: 310
+      alignment: 9
+      pivot: {x: 0.4075547, y: 0.5419355}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2999,12 +2999,12 @@ TextureImporter:
       name: Angle_130
       rect:
         serializedVersion: 2
-        x: 8192
-        y: 6144
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 933
+        y: 362
+        width: 498
+        height: 315
+      alignment: 9
+      pivot: {x: 0.40763053, y: 0.54285717}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3021,12 +3021,12 @@ TextureImporter:
       name: Angle_131
       rect:
         serializedVersion: 2
-        x: 8704
-        y: 6144
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 7484
+        y: 0
+        width: 492
+        height: 321
+      alignment: 9
+      pivot: {x: 0.40853658, y: 0.5451713}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3043,12 +3043,12 @@ TextureImporter:
       name: Angle_132
       rect:
         serializedVersion: 2
-        x: 9216
-        y: 6144
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 6996
+        y: 0
+        width: 486
+        height: 326
+      alignment: 9
+      pivot: {x: 0.4074074, y: 0.5460123}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3065,12 +3065,12 @@ TextureImporter:
       name: Angle_133
       rect:
         serializedVersion: 2
-        x: 0
-        y: 5632
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 5542
+        y: 0
+        width: 481
+        height: 330
+      alignment: 9
+      pivot: {x: 0.4074844, y: 0.54848486}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3087,12 +3087,12 @@ TextureImporter:
       name: Angle_134
       rect:
         serializedVersion: 2
-        x: 512
-        y: 5632
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 4588
+        y: 0
+        width: 475
+        height: 336
+      alignment: 9
+      pivot: {x: 0.40842104, y: 0.5505952}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3109,12 +3109,12 @@ TextureImporter:
       name: Angle_135
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 5632
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2283
+        y: 0
+        width: 469
+        height: 341
+      alignment: 9
+      pivot: {x: 0.40724948, y: 0.55131966}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3131,12 +3131,12 @@ TextureImporter:
       name: Angle_136
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 5632
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 4123
+        y: 0
+        width: 463
+        height: 345
+      alignment: 9
+      pivot: {x: 0.40820736, y: 0.5536232}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3153,12 +3153,12 @@ TextureImporter:
       name: Angle_137
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 5632
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1353
+        y: 0
+        width: 457
+        height: 350
+      alignment: 9
+      pivot: {x: 0.4091904, y: 0.5542857}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3175,12 +3175,12 @@ TextureImporter:
       name: Angle_138
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 5632
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3206
+        y: 0
+        width: 450
+        height: 355
+      alignment: 9
+      pivot: {x: 0.40888888, y: 0.55492955}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3197,12 +3197,12 @@ TextureImporter:
       name: Angle_139
       rect:
         serializedVersion: 2
-        x: 3072
-        y: 5632
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 447
+        y: 0
+        width: 445
+        height: 360
+      alignment: 9
+      pivot: {x: 0.40898877, y: 0.55833334}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3219,12 +3219,12 @@ TextureImporter:
       name: Angle_140
       rect:
         serializedVersion: 2
-        x: 3584
-        y: 5632
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 0
+        y: 729
+        width: 437
+        height: 365
+      alignment: 9
+      pivot: {x: 0.409611, y: 0.5589041}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3241,12 +3241,12 @@ TextureImporter:
       name: Angle_141
       rect:
         serializedVersion: 2
-        x: 4096
-        y: 5632
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 0
+        y: 1466
+        width: 430
+        height: 368
+      alignment: 9
+      pivot: {x: 0.40930232, y: 0.5597826}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3263,12 +3263,12 @@ TextureImporter:
       name: Angle_142
       rect:
         serializedVersion: 2
-        x: 4608
-        y: 5632
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 0
+        y: 2211
+        width: 424
+        height: 373
+      alignment: 9
+      pivot: {x: 0.41037735, y: 0.5603217}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3285,12 +3285,12 @@ TextureImporter:
       name: Angle_143
       rect:
         serializedVersion: 2
-        x: 5120
-        y: 5632
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 0
+        y: 2965
+        width: 417
+        height: 377
+      alignment: 9
+      pivot: {x: 0.41007194, y: 0.56233424}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3307,12 +3307,12 @@ TextureImporter:
       name: Angle_144
       rect:
         serializedVersion: 2
-        x: 5632
-        y: 5632
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 0
+        y: 3344
+        width: 409
+        height: 381
+      alignment: 9
+      pivot: {x: 0.41075796, y: 0.5643045}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3329,12 +3329,12 @@ TextureImporter:
       name: Angle_145
       rect:
         serializedVersion: 2
-        x: 6144
-        y: 5632
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 0
+        y: 4110
+        width: 403
+        height: 385
+      alignment: 9
+      pivot: {x: 0.41191068, y: 0.56363636}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3351,12 +3351,12 @@ TextureImporter:
       name: Angle_146
       rect:
         serializedVersion: 2
-        x: 6656
-        y: 5632
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 0
+        y: 5596
+        width: 395
+        height: 389
+      alignment: 9
+      pivot: {x: 0.4126582, y: 0.5655527}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3373,12 +3373,12 @@ TextureImporter:
       name: Angle_147
       rect:
         serializedVersion: 2
-        x: 7168
-        y: 5632
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 439
+        y: 3141
+        width: 387
+        height: 392
+      alignment: 9
+      pivot: {x: 0.41343668, y: 0.56632656}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3395,12 +3395,12 @@ TextureImporter:
       name: Angle_148
       rect:
         serializedVersion: 2
-        x: 7680
-        y: 5632
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 439
+        y: 5821
+        width: 379
+        height: 396
+      alignment: 9
+      pivot: {x: 0.41424802, y: 0.5681818}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3417,12 +3417,12 @@ TextureImporter:
       name: Angle_149
       rect:
         serializedVersion: 2
-        x: 8192
-        y: 5632
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 439
+        y: 6977
+        width: 371
+        height: 399
+      alignment: 9
+      pivot: {x: 0.41509435, y: 0.5689223}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3439,12 +3439,12 @@ TextureImporter:
       name: Angle_150
       rect:
         serializedVersion: 2
-        x: 8704
-        y: 5632
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 895
+        y: 2885
+        width: 363
+        height: 402
+      alignment: 9
+      pivot: {x: 0.41597795, y: 0.5696517}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3461,12 +3461,12 @@ TextureImporter:
       name: Angle_151
       rect:
         serializedVersion: 2
-        x: 9216
-        y: 5632
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 895
+        y: 4478
+        width: 355
+        height: 407
+      alignment: 9
+      pivot: {x: 0.4169014, y: 0.57002455}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3483,12 +3483,12 @@ TextureImporter:
       name: Angle_152
       rect:
         serializedVersion: 2
-        x: 0
-        y: 5120
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 895
+        y: 6083
+        width: 347
+        height: 410
+      alignment: 9
+      pivot: {x: 0.41786742, y: 0.5707317}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3505,12 +3505,12 @@ TextureImporter:
       name: Angle_153
       rect:
         serializedVersion: 2
-        x: 512
-        y: 5120
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1286
+        y: 2574
+        width: 339
+        height: 413
+      alignment: 9
+      pivot: {x: 0.41887906, y: 0.5714286}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3527,12 +3527,12 @@ TextureImporter:
       name: Angle_154
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 5120
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1286
+        y: 4211
+        width: 330
+        height: 416
+      alignment: 9
+      pivot: {x: 0.4212121, y: 0.57211536}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3549,12 +3549,12 @@ TextureImporter:
       name: Angle_155
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 5120
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1286
+        y: 5439
+        width: 322
+        height: 419
+      alignment: 9
+      pivot: {x: 0.42236024, y: 0.57279235}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3571,12 +3571,12 @@ TextureImporter:
       name: Angle_156
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 5120
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1286
+        y: 7097
+        width: 313
+        height: 420
+      alignment: 9
+      pivot: {x: 0.42172524, y: 0.5738095}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3593,12 +3593,12 @@ TextureImporter:
       name: Angle_157
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 5120
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1809
+        y: 3759
+        width: 304
+        height: 423
+      alignment: 9
+      pivot: {x: 0.4243421, y: 0.5744681}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3615,12 +3615,12 @@ TextureImporter:
       name: Angle_158
       rect:
         serializedVersion: 2
-        x: 3072
-        y: 5120
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1809
+        y: 5441
+        width: 295
+        height: 426
+      alignment: 9
+      pivot: {x: 0.42711863, y: 0.57511735}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3637,12 +3637,12 @@ TextureImporter:
       name: Angle_159
       rect:
         serializedVersion: 2
-        x: 3584
-        y: 5120
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1809
+        y: 7563
+        width: 287
+        height: 428
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.57476634}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3659,12 +3659,12 @@ TextureImporter:
       name: Angle_160
       rect:
         serializedVersion: 2
-        x: 4096
-        y: 5120
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2133
+        y: 3618
+        width: 278
+        height: 431
+      alignment: 9
+      pivot: {x: 0.43165466, y: 0.575406}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3681,12 +3681,12 @@ TextureImporter:
       name: Angle_161
       rect:
         serializedVersion: 2
-        x: 4608
-        y: 5120
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2133
+        y: 5329
+        width: 269
+        height: 432
+      alignment: 9
+      pivot: {x: 0.43494424, y: 0.5763889}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3703,12 +3703,12 @@ TextureImporter:
       name: Angle_162
       rect:
         serializedVersion: 2
-        x: 5120
-        y: 5120
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2133
+        y: 7047
+        width: 259
+        height: 434
+      alignment: 9
+      pivot: {x: 0.43629342, y: 0.5760369}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3725,12 +3725,12 @@ TextureImporter:
       name: Angle_163
       rect:
         serializedVersion: 2
-        x: 5632
-        y: 5120
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2425
+        y: 3200
+        width: 250
+        height: 437
+      alignment: 9
+      pivot: {x: 0.44, y: 0.576659}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3747,12 +3747,12 @@ TextureImporter:
       name: Angle_164
       rect:
         serializedVersion: 2
-        x: 6144
-        y: 5120
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2425
+        y: 6234
+        width: 241
+        height: 438
+      alignment: 9
+      pivot: {x: 0.4439834, y: 0.5776256}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3769,12 +3769,12 @@ TextureImporter:
       name: Angle_165
       rect:
         serializedVersion: 2
-        x: 6656
-        y: 5120
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2691
+        y: 3147
+        width: 232
+        height: 440
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.5772727}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3791,12 +3791,12 @@ TextureImporter:
       name: Angle_166
       rect:
         serializedVersion: 2
-        x: 7168
-        y: 5120
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2691
+        y: 4455
+        width: 223
+        height: 441
+      alignment: 9
+      pivot: {x: 0.4529148, y: 0.5782313}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3813,12 +3813,12 @@ TextureImporter:
       name: Angle_167
       rect:
         serializedVersion: 2
-        x: 7680
-        y: 5120
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2691
+        y: 6211
+        width: 213
+        height: 443
+      alignment: 9
+      pivot: {x: 0.45539907, y: 0.5778781}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3835,12 +3835,12 @@ TextureImporter:
       name: Angle_168
       rect:
         serializedVersion: 2
-        x: 8192
-        y: 5120
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2925
+        y: 3310
+        width: 205
+        height: 443
+      alignment: 9
+      pivot: {x: 0.4585366, y: 0.5778781}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3857,12 +3857,12 @@ TextureImporter:
       name: Angle_169
       rect:
         serializedVersion: 2
-        x: 8704
-        y: 5120
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2925
+        y: 4646
+        width: 196
+        height: 444
+      alignment: 9
+      pivot: {x: 0.4642857, y: 0.5788288}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3879,12 +3879,12 @@ TextureImporter:
       name: Angle_170
       rect:
         serializedVersion: 2
-        x: 9216
-        y: 5120
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2925
+        y: 6415
+        width: 186
+        height: 445
+      alignment: 9
+      pivot: {x: 0.46774194, y: 0.5775281}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3901,12 +3901,12 @@ TextureImporter:
       name: Angle_171
       rect:
         serializedVersion: 2
-        x: 0
-        y: 4608
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3132
+        y: 5071
+        width: 177
+        height: 446
+      alignment: 9
+      pivot: {x: 0.47457626, y: 0.57847536}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3923,12 +3923,12 @@ TextureImporter:
       name: Angle_172
       rect:
         serializedVersion: 2
-        x: 512
-        y: 4608
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3132
+        y: 6401
+        width: 168
+        height: 446
+      alignment: 9
+      pivot: {x: 0.48214287, y: 0.57847536}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3945,12 +3945,12 @@ TextureImporter:
       name: Angle_173
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 4608
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3340
+        y: 3994
+        width: 158
+        height: 447
+      alignment: 9
+      pivot: {x: 0.48734176, y: 0.57941836}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3967,12 +3967,12 @@ TextureImporter:
       name: Angle_174
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 4608
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3340
+        y: 4884
+        width: 150
+        height: 448
+      alignment: 9
+      pivot: {x: 0.49333334, y: 0.578125}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3989,12 +3989,12 @@ TextureImporter:
       name: Angle_175
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 4608
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3340
+        y: 5776
+        width: 140
+        height: 448
+      alignment: 9
+      pivot: {x: 0.5, y: 0.578125}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4011,12 +4011,12 @@ TextureImporter:
       name: Angle_176
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 4608
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3474
+        y: 6669
+        width: 132
+        height: 448
+      alignment: 9
+      pivot: {x: 0.50757575, y: 0.578125}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4033,12 +4033,12 @@ TextureImporter:
       name: Angle_177
       rect:
         serializedVersion: 2
-        x: 3072
-        y: 4608
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3465
+        y: 7119
+        width: 123
+        height: 448
+      alignment: 9
+      pivot: {x: 0.5203252, y: 0.578125}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4055,12 +4055,12 @@ TextureImporter:
       name: Angle_178
       rect:
         serializedVersion: 2
-        x: 3584
-        y: 4608
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3794
+        y: 4884
+        width: 118
+        height: 448
+      alignment: 9
+      pivot: {x: 0.5084746, y: 0.578125}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4077,12 +4077,12 @@ TextureImporter:
       name: Angle_179
       rect:
         serializedVersion: 2
-        x: 4096
-        y: 4608
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3710
+        y: 7119
+        width: 114
+        height: 447
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5771812}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4099,12 +4099,12 @@ TextureImporter:
       name: Angle_180
       rect:
         serializedVersion: 2
-        x: 4608
-        y: 4608
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3456
+        y: 7569
+        width: 112
+        height: 447
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5771812}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4121,12 +4121,12 @@ TextureImporter:
       name: Angle_181
       rect:
         serializedVersion: 2
-        x: 5120
-        y: 4608
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3340
+        y: 7569
+        width: 114
+        height: 447
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5771812}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4143,12 +4143,12 @@ TextureImporter:
       name: Angle_182
       rect:
         serializedVersion: 2
-        x: 5632
-        y: 4608
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3590
+        y: 7119
+        width: 118
+        height: 448
+      alignment: 9
+      pivot: {x: 0.4915254, y: 0.578125}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4165,12 +4165,12 @@ TextureImporter:
       name: Angle_183
       rect:
         serializedVersion: 2
-        x: 6144
-        y: 4608
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3340
+        y: 7119
+        width: 123
+        height: 448
+      alignment: 9
+      pivot: {x: 0.4796748, y: 0.578125}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4187,12 +4187,12 @@ TextureImporter:
       name: Angle_184
       rect:
         serializedVersion: 2
-        x: 6656
-        y: 4608
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3340
+        y: 6669
+        width: 132
+        height: 448
+      alignment: 9
+      pivot: {x: 0.49242425, y: 0.578125}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4209,12 +4209,12 @@ TextureImporter:
       name: Angle_185
       rect:
         serializedVersion: 2
-        x: 7168
-        y: 4608
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3482
+        y: 5776
+        width: 140
+        height: 448
+      alignment: 9
+      pivot: {x: 0.5, y: 0.578125}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4231,12 +4231,12 @@ TextureImporter:
       name: Angle_186
       rect:
         serializedVersion: 2
-        x: 7680
-        y: 4608
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3492
+        y: 4884
+        width: 150
+        height: 448
+      alignment: 9
+      pivot: {x: 0.50666666, y: 0.578125}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4253,12 +4253,12 @@ TextureImporter:
       name: Angle_187
       rect:
         serializedVersion: 2
-        x: 8192
-        y: 4608
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3500
+        y: 3994
+        width: 158
+        height: 447
+      alignment: 9
+      pivot: {x: 0.51265824, y: 0.57941836}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4275,12 +4275,12 @@ TextureImporter:
       name: Angle_188
       rect:
         serializedVersion: 2
-        x: 8704
-        y: 4608
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3132
+        y: 6849
+        width: 168
+        height: 446
+      alignment: 9
+      pivot: {x: 0.51785713, y: 0.57847536}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4297,12 +4297,12 @@ TextureImporter:
       name: Angle_189
       rect:
         serializedVersion: 2
-        x: 9216
-        y: 4608
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3132
+        y: 4623
+        width: 177
+        height: 446
+      alignment: 9
+      pivot: {x: 0.5254237, y: 0.57847536}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4319,12 +4319,12 @@ TextureImporter:
       name: Angle_190
       rect:
         serializedVersion: 2
-        x: 0
-        y: 4096
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2925
+        y: 5968
+        width: 186
+        height: 445
+      alignment: 9
+      pivot: {x: 0.5322581, y: 0.5775281}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4341,12 +4341,12 @@ TextureImporter:
       name: Angle_191
       rect:
         serializedVersion: 2
-        x: 512
-        y: 4096
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2925
+        y: 4200
+        width: 196
+        height: 444
+      alignment: 9
+      pivot: {x: 0.53571427, y: 0.5788288}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4363,12 +4363,12 @@ TextureImporter:
       name: Angle_192
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 4096
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2925
+        y: 3755
+        width: 205
+        height: 443
+      alignment: 9
+      pivot: {x: 0.54146343, y: 0.5778781}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4385,12 +4385,12 @@ TextureImporter:
       name: Angle_193
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 4096
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2691
+        y: 6656
+        width: 213
+        height: 443
+      alignment: 9
+      pivot: {x: 0.54460096, y: 0.5778781}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4407,12 +4407,12 @@ TextureImporter:
       name: Angle_194
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 4096
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2691
+        y: 4898
+        width: 223
+        height: 441
+      alignment: 9
+      pivot: {x: 0.5470852, y: 0.5782313}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4429,12 +4429,12 @@ TextureImporter:
       name: Angle_195
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 4096
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2425
+        y: 7536
+        width: 232
+        height: 440
+      alignment: 9
+      pivot: {x: 0.55172414, y: 0.5772727}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4451,12 +4451,12 @@ TextureImporter:
       name: Angle_196
       rect:
         serializedVersion: 2
-        x: 3072
-        y: 4096
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2425
+        y: 5794
+        width: 241
+        height: 438
+      alignment: 9
+      pivot: {x: 0.5560166, y: 0.5776256}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4473,12 +4473,12 @@ TextureImporter:
       name: Angle_197
       rect:
         serializedVersion: 2
-        x: 3584
-        y: 4096
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2425
+        y: 3639
+        width: 250
+        height: 437
+      alignment: 9
+      pivot: {x: 0.56, y: 0.576659}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4495,12 +4495,12 @@ TextureImporter:
       name: Angle_198
       rect:
         serializedVersion: 2
-        x: 4096
-        y: 4096
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2133
+        y: 6611
+        width: 259
+        height: 434
+      alignment: 9
+      pivot: {x: 0.5637066, y: 0.5760369}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4517,12 +4517,12 @@ TextureImporter:
       name: Angle_199
       rect:
         serializedVersion: 2
-        x: 4608
-        y: 4096
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2133
+        y: 4895
+        width: 269
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5650558, y: 0.5763889}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4539,12 +4539,12 @@ TextureImporter:
       name: Angle_200
       rect:
         serializedVersion: 2
-        x: 5120
-        y: 4096
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2133
+        y: 3185
+        width: 278
+        height: 431
+      alignment: 9
+      pivot: {x: 0.5683453, y: 0.575406}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4561,12 +4561,12 @@ TextureImporter:
       name: Angle_201
       rect:
         serializedVersion: 2
-        x: 5632
-        y: 4096
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1809
+        y: 7133
+        width: 287
+        height: 428
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.57476634}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4583,12 +4583,12 @@ TextureImporter:
       name: Angle_202
       rect:
         serializedVersion: 2
-        x: 6144
-        y: 4096
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1809
+        y: 5869
+        width: 295
+        height: 426
+      alignment: 9
+      pivot: {x: 0.57288134, y: 0.57511735}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4605,12 +4605,12 @@ TextureImporter:
       name: Angle_203
       rect:
         serializedVersion: 2
-        x: 6656
-        y: 4096
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1809
+        y: 4184
+        width: 304
+        height: 423
+      alignment: 9
+      pivot: {x: 0.5756579, y: 0.5744681}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4627,12 +4627,12 @@ TextureImporter:
       name: Angle_204
       rect:
         serializedVersion: 2
-        x: 7168
-        y: 4096
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1286
+        y: 7519
+        width: 313
+        height: 420
+      alignment: 9
+      pivot: {x: 0.5782748, y: 0.5738095}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4649,12 +4649,12 @@ TextureImporter:
       name: Angle_205
       rect:
         serializedVersion: 2
-        x: 7680
-        y: 4096
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1286
+        y: 5860
+        width: 322
+        height: 419
+      alignment: 9
+      pivot: {x: 0.57763976, y: 0.57279235}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4671,12 +4671,12 @@ TextureImporter:
       name: Angle_206
       rect:
         serializedVersion: 2
-        x: 8192
-        y: 4096
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1286
+        y: 3793
+        width: 330
+        height: 416
+      alignment: 9
+      pivot: {x: 0.57878786, y: 0.57211536}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4693,12 +4693,12 @@ TextureImporter:
       name: Angle_207
       rect:
         serializedVersion: 2
-        x: 8704
-        y: 4096
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1286
+        y: 2159
+        width: 339
+        height: 413
+      alignment: 9
+      pivot: {x: 0.58112097, y: 0.5714286}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4715,12 +4715,12 @@ TextureImporter:
       name: Angle_208
       rect:
         serializedVersion: 2
-        x: 9216
-        y: 4096
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 895
+        y: 5671
+        width: 347
+        height: 410
+      alignment: 9
+      pivot: {x: 0.5821326, y: 0.5707317}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4737,12 +4737,12 @@ TextureImporter:
       name: Angle_209
       rect:
         serializedVersion: 2
-        x: 0
-        y: 3584
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 895
+        y: 4069
+        width: 355
+        height: 407
+      alignment: 9
+      pivot: {x: 0.5830986, y: 0.57002455}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4759,12 +4759,12 @@ TextureImporter:
       name: Angle_210
       rect:
         serializedVersion: 2
-        x: 512
-        y: 3584
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 895
+        y: 2481
+        width: 363
+        height: 402
+      alignment: 9
+      pivot: {x: 0.58402205, y: 0.5696517}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4781,12 +4781,12 @@ TextureImporter:
       name: Angle_211
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 3584
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 439
+        y: 7378
+        width: 371
+        height: 399
+      alignment: 9
+      pivot: {x: 0.5849057, y: 0.5689223}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4803,12 +4803,12 @@ TextureImporter:
       name: Angle_212
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 3584
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 439
+        y: 5423
+        width: 379
+        height: 396
+      alignment: 9
+      pivot: {x: 0.58575195, y: 0.5681818}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4825,12 +4825,12 @@ TextureImporter:
       name: Angle_213
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 3584
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 439
+        y: 3535
+        width: 387
+        height: 392
+      alignment: 9
+      pivot: {x: 0.5865633, y: 0.56632656}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4847,12 +4847,12 @@ TextureImporter:
       name: Angle_214
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 3584
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 0
+        y: 5987
+        width: 395
+        height: 389
+      alignment: 9
+      pivot: {x: 0.5873418, y: 0.5655527}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4869,12 +4869,12 @@ TextureImporter:
       name: Angle_215
       rect:
         serializedVersion: 2
-        x: 3072
-        y: 3584
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 0
+        y: 4497
+        width: 403
+        height: 385
+      alignment: 9
+      pivot: {x: 0.58808935, y: 0.56363636}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4891,12 +4891,12 @@ TextureImporter:
       name: Angle_216
       rect:
         serializedVersion: 2
-        x: 3584
-        y: 3584
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 0
+        y: 3727
+        width: 409
+        height: 381
+      alignment: 9
+      pivot: {x: 0.58924204, y: 0.5643045}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4913,12 +4913,12 @@ TextureImporter:
       name: Angle_217
       rect:
         serializedVersion: 2
-        x: 4096
-        y: 3584
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 0
+        y: 2586
+        width: 417
+        height: 377
+      alignment: 9
+      pivot: {x: 0.58992803, y: 0.56233424}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4935,12 +4935,12 @@ TextureImporter:
       name: Angle_218
       rect:
         serializedVersion: 2
-        x: 4608
-        y: 3584
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 0
+        y: 1836
+        width: 424
+        height: 373
+      alignment: 9
+      pivot: {x: 0.5896226, y: 0.5603217}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4957,12 +4957,12 @@ TextureImporter:
       name: Angle_219
       rect:
         serializedVersion: 2
-        x: 5120
-        y: 3584
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 0
+        y: 1096
+        width: 430
+        height: 368
+      alignment: 9
+      pivot: {x: 0.59069765, y: 0.5597826}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4979,12 +4979,12 @@ TextureImporter:
       name: Angle_220
       rect:
         serializedVersion: 2
-        x: 5632
-        y: 3584
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 0
+        y: 362
+        width: 437
+        height: 365
+      alignment: 9
+      pivot: {x: 0.590389, y: 0.5589041}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5001,12 +5001,12 @@ TextureImporter:
       name: Angle_221
       rect:
         serializedVersion: 2
-        x: 6144
-        y: 3584
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 0
+        y: 0
+        width: 445
+        height: 360
+      alignment: 9
+      pivot: {x: 0.5910112, y: 0.55833334}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5023,12 +5023,12 @@ TextureImporter:
       name: Angle_222
       rect:
         serializedVersion: 2
-        x: 6656
-        y: 3584
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2754
+        y: 0
+        width: 450
+        height: 355
+      alignment: 9
+      pivot: {x: 0.5911111, y: 0.55492955}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5045,12 +5045,12 @@ TextureImporter:
       name: Angle_223
       rect:
         serializedVersion: 2
-        x: 7168
-        y: 3584
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 894
+        y: 0
+        width: 457
+        height: 350
+      alignment: 9
+      pivot: {x: 0.59080964, y: 0.5542857}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5067,12 +5067,12 @@ TextureImporter:
       name: Angle_224
       rect:
         serializedVersion: 2
-        x: 7680
-        y: 3584
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3658
+        y: 0
+        width: 463
+        height: 345
+      alignment: 9
+      pivot: {x: 0.59179264, y: 0.5536232}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5089,12 +5089,12 @@ TextureImporter:
       name: Angle_225
       rect:
         serializedVersion: 2
-        x: 8192
-        y: 3584
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1812
+        y: 0
+        width: 469
+        height: 341
+      alignment: 9
+      pivot: {x: 0.59275055, y: 0.55131966}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5111,12 +5111,12 @@ TextureImporter:
       name: Angle_226
       rect:
         serializedVersion: 2
-        x: 8704
-        y: 3584
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 5065
+        y: 0
+        width: 475
+        height: 336
+      alignment: 9
+      pivot: {x: 0.59157896, y: 0.5505952}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5133,12 +5133,12 @@ TextureImporter:
       name: Angle_227
       rect:
         serializedVersion: 2
-        x: 9216
-        y: 3584
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 6025
+        y: 0
+        width: 481
+        height: 330
+      alignment: 9
+      pivot: {x: 0.5925156, y: 0.54848486}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5155,12 +5155,12 @@ TextureImporter:
       name: Angle_228
       rect:
         serializedVersion: 2
-        x: 0
-        y: 3072
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 6508
+        y: 0
+        width: 486
+        height: 326
+      alignment: 9
+      pivot: {x: 0.5925926, y: 0.5460123}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5177,12 +5177,12 @@ TextureImporter:
       name: Angle_229
       rect:
         serializedVersion: 2
-        x: 512
-        y: 3072
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 439
+        y: 362
+        width: 492
+        height: 321
+      alignment: 9
+      pivot: {x: 0.5914634, y: 0.5451713}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5199,12 +5199,12 @@ TextureImporter:
       name: Angle_230
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 3072
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1433
+        y: 362
+        width: 498
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5923695, y: 0.54285717}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5221,12 +5221,12 @@ TextureImporter:
       name: Angle_231
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 3072
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2438
+        y: 362
+        width: 503
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5924453, y: 0.5419355}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5243,12 +5243,12 @@ TextureImporter:
       name: Angle_232
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 3072
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3453
+        y: 362
+        width: 508
+        height: 304
+      alignment: 9
+      pivot: {x: 0.5925197, y: 0.5394737}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5265,12 +5265,12 @@ TextureImporter:
       name: Angle_233
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 3072
+        x: 6417
+        y: 362
         width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        height: 298
+      alignment: 9
+      pivot: {x: 0.5917969, y: 0.53691274}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5287,12 +5287,12 @@ TextureImporter:
       name: Angle_234
       rect:
         serializedVersion: 2
-        x: 3072
-        y: 3072
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 5166
+        y: 685
+        width: 517
+        height: 293
+      alignment: 9
+      pivot: {x: 0.5918762, y: 0.53583616}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5309,12 +5309,12 @@ TextureImporter:
       name: Angle_235
       rect:
         serializedVersion: 2
-        x: 3584
-        y: 3072
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 7203
+        y: 685
+        width: 522
+        height: 289
+      alignment: 9
+      pivot: {x: 0.59195405, y: 0.53287196}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5331,12 +5331,12 @@ TextureImporter:
       name: Angle_236
       rect:
         serializedVersion: 2
-        x: 4096
-        y: 3072
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2915
+        y: 1024
+        width: 526
+        height: 283
+      alignment: 9
+      pivot: {x: 0.5912548, y: 0.5335689}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5353,12 +5353,12 @@ TextureImporter:
       name: Angle_237
       rect:
         serializedVersion: 2
-        x: 4608
-        y: 3072
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 5525
+        y: 1024
+        width: 530
+        height: 279
+      alignment: 9
+      pivot: {x: 0.5924528, y: 0.53046596}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5375,12 +5375,12 @@ TextureImporter:
       name: Angle_238
       rect:
         serializedVersion: 2
-        x: 5120
-        y: 3072
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1286
+        y: 1327
+        width: 534
+        height: 272
+      alignment: 9
+      pivot: {x: 0.5917603, y: 0.5294118}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5397,12 +5397,12 @@ TextureImporter:
       name: Angle_239
       rect:
         serializedVersion: 2
-        x: 5632
-        y: 3072
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2358
+        y: 1327
+        width: 538
+        height: 267
+      alignment: 9
+      pivot: {x: 0.59107804, y: 0.5280899}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5419,12 +5419,12 @@ TextureImporter:
       name: Angle_240
       rect:
         serializedVersion: 2
-        x: 6144
-        y: 3072
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 4492
+        y: 1327
+        width: 541
+        height: 262
+      alignment: 9
+      pivot: {x: 0.59149724, y: 0.52671754}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5441,12 +5441,12 @@ TextureImporter:
       name: Angle_241
       rect:
         serializedVersion: 2
-        x: 6656
-        y: 3072
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 6640
+        y: 1327
+        width: 545
+        height: 257
+      alignment: 9
+      pivot: {x: 0.5908257, y: 0.5252918}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5463,12 +5463,12 @@ TextureImporter:
       name: Angle_242
       rect:
         serializedVersion: 2
-        x: 7168
-        y: 3072
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2877
+        y: 1601
+        width: 548
+        height: 251
+      alignment: 9
+      pivot: {x: 0.5912409, y: 0.52191234}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5485,12 +5485,12 @@ TextureImporter:
       name: Angle_243
       rect:
         serializedVersion: 2
-        x: 7680
-        y: 3072
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 5607
+        y: 1601
+        width: 552
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5905797, y: 0.5203252}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5507,12 +5507,12 @@ TextureImporter:
       name: Angle_244
       rect:
         serializedVersion: 2
-        x: 8192
-        y: 3072
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2353
+        y: 1865
+        width: 554
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5902527, y: 0.5208333}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5529,12 +5529,12 @@ TextureImporter:
       name: Angle_245
       rect:
         serializedVersion: 2
-        x: 8704
-        y: 3072
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 5118
+        y: 1865
+        width: 557
+        height: 234
+      alignment: 9
+      pivot: {x: 0.59066427, y: 0.517094}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5551,12 +5551,12 @@ TextureImporter:
       name: Angle_246
       rect:
         serializedVersion: 2
-        x: 9216
-        y: 3072
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 7338
+        y: 1865
+        width: 559
+        height: 229
+      alignment: 9
+      pivot: {x: 0.5903399, y: 0.5152838}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5573,12 +5573,12 @@ TextureImporter:
       name: Angle_247
       rect:
         serializedVersion: 2
-        x: 0
-        y: 2560
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3801
+        y: 2113
+        width: 562
+        height: 224
+      alignment: 9
+      pivot: {x: 0.588968, y: 0.51339287}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5595,12 +5595,12 @@ TextureImporter:
       name: Angle_248
       rect:
         serializedVersion: 2
-        x: 512
-        y: 2560
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 5473
+        y: 2113
+        width: 564
+        height: 217
+      alignment: 9
+      pivot: {x: 0.5886525, y: 0.51152074}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5617,12 +5617,12 @@ TextureImporter:
       name: Angle_249
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 2560
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2425
+        y: 2345
+        width: 567
+        height: 212
+      alignment: 9
+      pivot: {x: 0.58906525, y: 0.509434}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5639,12 +5639,12 @@ TextureImporter:
       name: Angle_250
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 2560
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3563
+        y: 2345
+        width: 569
+        height: 206
+      alignment: 9
+      pivot: {x: 0.5887522, y: 0.50970876}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5661,12 +5661,12 @@ TextureImporter:
       name: Angle_251
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 2560
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 6400
+        y: 2345
+        width: 571
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5884413, y: 0.505}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5683,12 +5683,12 @@ TextureImporter:
       name: Angle_252
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 2560
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3543
+        y: 2559
+        width: 571
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5884413, y: 0.50256413}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5705,12 +5705,12 @@ TextureImporter:
       name: Angle_253
       rect:
         serializedVersion: 2
-        x: 3072
-        y: 2560
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 6394
+        y: 2559
+        width: 573
+        height: 189
+      alignment: 9
+      pivot: {x: 0.5881326, y: 0.5026455}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5727,12 +5727,12 @@ TextureImporter:
       name: Angle_254
       rect:
         serializedVersion: 2
-        x: 3584
-        y: 2560
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3267
+        y: 2774
+        width: 574
+        height: 184
+      alignment: 9
+      pivot: {x: 0.587108, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5749,12 +5749,12 @@ TextureImporter:
       name: Angle_255
       rect:
         serializedVersion: 2
-        x: 4096
-        y: 2560
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3843
+        y: 2774
+        width: 575
+        height: 179
+      alignment: 9
+      pivot: {x: 0.5878261, y: 0.49720672}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5771,12 +5771,12 @@ TextureImporter:
       name: Angle_256
       rect:
         serializedVersion: 2
-        x: 4608
-        y: 2560
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 6135
+        y: 2774
+        width: 576
+        height: 173
+      alignment: 9
+      pivot: {x: 0.5868056, y: 0.49710983}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5793,12 +5793,12 @@ TextureImporter:
       name: Angle_257
       rect:
         serializedVersion: 2
-        x: 5120
-        y: 2560
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 4394
+        y: 2960
+        width: 577
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5875217, y: 0.4940476}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5815,12 +5815,12 @@ TextureImporter:
       name: Angle_258
       rect:
         serializedVersion: 2
-        x: 5632
-        y: 2560
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 7272
+        y: 2960
+        width: 578
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5865052, y: 0.49079755}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5837,12 +5837,12 @@ TextureImporter:
       name: Angle_259
       rect:
         serializedVersion: 2
-        x: 6144
-        y: 2560
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 4647
+        y: 3147
+        width: 578
+        height: 157
+      alignment: 9
+      pivot: {x: 0.5865052, y: 0.49044585}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5859,12 +5859,12 @@ TextureImporter:
       name: Angle_260
       rect:
         serializedVersion: 2
-        x: 6656
-        y: 2560
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 6951
+        y: 3147
+        width: 578
+        height: 153
+      alignment: 9
+      pivot: {x: 0.5865052, y: 0.49019608}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5881,12 +5881,12 @@ TextureImporter:
       name: Angle_261
       rect:
         serializedVersion: 2
-        x: 7168
-        y: 2560
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3913
+        y: 3310
+        width: 579
+        height: 147
+      alignment: 9
+      pivot: {x: 0.58549225, y: 0.48979592}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5903,12 +5903,12 @@ TextureImporter:
       name: Angle_262
       rect:
         serializedVersion: 2
-        x: 7680
-        y: 2560
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 6802
+        y: 3310
+        width: 579
+        height: 142
+      alignment: 9
+      pivot: {x: 0.58549225, y: 0.48591548}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5925,12 +5925,12 @@ TextureImporter:
       name: Angle_263
       rect:
         serializedVersion: 2
-        x: 8192
-        y: 2560
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 6223
+        y: 3462
+        width: 578
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5847751, y: 0.4852941}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5947,12 +5947,12 @@ TextureImporter:
       name: Angle_264
       rect:
         serializedVersion: 2
-        x: 8704
-        y: 2560
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 5642
+        y: 3462
+        width: 579
+        height: 136
+      alignment: 9
+      pivot: {x: 0.58549225, y: 0.4632353}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5969,12 +5969,12 @@ TextureImporter:
       name: Angle_265
       rect:
         serializedVersion: 2
-        x: 9216
-        y: 2560
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 6806
+        y: 3605
+        width: 579
+        height: 127
+      alignment: 9
+      pivot: {x: 0.58549225, y: 0.47244096}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5991,12 +5991,12 @@ TextureImporter:
       name: Angle_266
       rect:
         serializedVersion: 2
-        x: 0
-        y: 2048
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 6818
+        y: 3741
+        width: 578
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5865052, y: 0.45967743}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6013,12 +6013,12 @@ TextureImporter:
       name: Angle_267
       rect:
         serializedVersion: 2
-        x: 512
-        y: 2048
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3340
+        y: 3741
+        width: 578
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5865052, y: 0.456}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6035,12 +6035,12 @@ TextureImporter:
       name: Angle_268
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 2048
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 5078
+        y: 3741
+        width: 578
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5865052, y: 0.4516129}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6057,12 +6057,12 @@ TextureImporter:
       name: Angle_269
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 2048
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3920
+        y: 3741
+        width: 577
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5875217, y: 0.448}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6079,12 +6079,12 @@ TextureImporter:
       name: Angle_270
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 2048
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 7398
+        y: 3741
+        width: 576
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5868056, y: 0.4516129}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6101,12 +6101,12 @@ TextureImporter:
       name: Angle_271
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 2048
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 5069
+        y: 3605
+        width: 576
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5868056, y: 0.4609375}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6123,12 +6123,12 @@ TextureImporter:
       name: Angle_272
       rect:
         serializedVersion: 2
-        x: 3072
-        y: 2048
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3915
+        y: 3605
+        width: 575
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5878261, y: 0.46923077}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6145,12 +6145,12 @@ TextureImporter:
       name: Angle_273
       rect:
         serializedVersion: 2
-        x: 3584
-        y: 2048
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 7383
+        y: 3462
+        width: 573
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5881326, y: 0.47761193}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6167,12 +6167,12 @@ TextureImporter:
       name: Angle_274
       rect:
         serializedVersion: 2
-        x: 4096
-        y: 2048
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 4487
+        y: 3462
+        width: 572
+        height: 138
+      alignment: 9
+      pivot: {x: 0.5874126, y: 0.48550725}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6189,12 +6189,12 @@ TextureImporter:
       name: Angle_275
       rect:
         serializedVersion: 2
-        x: 4608
-        y: 2048
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 7383
+        y: 3310
+        width: 571
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5884413, y: 0.4964539}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6211,12 +6211,12 @@ TextureImporter:
       name: Angle_276
       rect:
         serializedVersion: 2
-        x: 5120
-        y: 2048
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 5075
+        y: 3310
+        width: 571
+        height: 144
+      alignment: 9
+      pivot: {x: 0.58669, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6233,12 +6233,12 @@ TextureImporter:
       name: Angle_277
       rect:
         serializedVersion: 2
-        x: 5632
-        y: 2048
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3340
+        y: 3310
+        width: 571
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5849387, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6255,12 +6255,12 @@ TextureImporter:
       name: Angle_278
       rect:
         serializedVersion: 2
-        x: 6144
-        y: 2048
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 5799
+        y: 3147
+        width: 570
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5842105, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6277,12 +6277,12 @@ TextureImporter:
       name: Angle_279
       rect:
         serializedVersion: 2
-        x: 6656
-        y: 2048
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2925
+        y: 3147
+        width: 569
+        height: 161
+      alignment: 9
+      pivot: {x: 0.5817223, y: 0.49689442}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6299,12 +6299,12 @@ TextureImporter:
       name: Angle_280
       rect:
         serializedVersion: 2
-        x: 7168
-        y: 2048
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 6122
+        y: 2960
+        width: 568
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5809859, y: 0.497006}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6321,12 +6321,12 @@ TextureImporter:
       name: Angle_281
       rect:
         serializedVersion: 2
-        x: 7680
-        y: 2048
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3825
+        y: 2960
+        width: 567
+        height: 173
+      alignment: 9
+      pivot: {x: 0.5802469, y: 0.49710983}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6343,12 +6343,12 @@ TextureImporter:
       name: Angle_282
       rect:
         serializedVersion: 2
-        x: 8192
-        y: 2048
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 5566
+        y: 2774
+        width: 567
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5784832, y: 0.49438202}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6365,12 +6365,12 @@ TextureImporter:
       name: Angle_283
       rect:
         serializedVersion: 2
-        x: 8704
-        y: 2048
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3258
+        y: 2960
+        width: 565
+        height: 185
+      alignment: 9
+      pivot: {x: 0.57699114, y: 0.4918919}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6387,12 +6387,12 @@ TextureImporter:
       name: Angle_284
       rect:
         serializedVersion: 2
-        x: 9216
-        y: 2048
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 7535
+        y: 2559
+        width: 564
+        height: 191
+      alignment: 9
+      pivot: {x: 0.57624114, y: 0.4921466}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6409,12 +6409,12 @@ TextureImporter:
       name: Angle_285
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1536
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 4689
+        y: 2559
+        width: 563
+        height: 196
+      alignment: 9
+      pivot: {x: 0.5737122, y: 0.48979592}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6431,12 +6431,12 @@ TextureImporter:
       name: Angle_286
       rect:
         serializedVersion: 2
-        x: 512
-        y: 1536
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 7536
+        y: 2345
+        width: 561
+        height: 202
+      alignment: 9
+      pivot: {x: 0.5721925, y: 0.490099}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6453,12 +6453,12 @@ TextureImporter:
       name: Angle_287
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 1536
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 5266
+        y: 2345
+        width: 559
+        height: 208
+      alignment: 9
+      pivot: {x: 0.5706619, y: 0.4903846}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6475,12 +6475,12 @@ TextureImporter:
       name: Angle_288
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 1536
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2984
+        y: 2559
+        width: 557
+        height: 213
+      alignment: 9
+      pivot: {x: 0.5691203, y: 0.49295774}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6497,12 +6497,12 @@ TextureImporter:
       name: Angle_289
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 1536
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 7162
+        y: 2113
+        width: 555
+        height: 218
+      alignment: 9
+      pivot: {x: 0.5675676, y: 0.49082568}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6519,12 +6519,12 @@ TextureImporter:
       name: Angle_290
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 1536
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 4365
+        y: 2113
+        width: 552
+        height: 224
+      alignment: 9
+      pivot: {x: 0.567029, y: 0.49107143}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6541,12 +6541,12 @@ TextureImporter:
       name: Angle_291
       rect:
         serializedVersion: 2
-        x: 3072
-        y: 1536
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2133
+        y: 2113
+        width: 550
+        height: 230
+      alignment: 9
+      pivot: {x: 0.56545454, y: 0.49130434}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6563,12 +6563,12 @@ TextureImporter:
       name: Angle_292
       rect:
         serializedVersion: 2
-        x: 3584
-        y: 1536
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 6227
+        y: 1865
+        width: 548
+        height: 235
+      alignment: 9
+      pivot: {x: 0.56386864, y: 0.4893617}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6585,12 +6585,12 @@ TextureImporter:
       name: Angle_293
       rect:
         serializedVersion: 2
-        x: 4096
-        y: 1536
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 4012
+        y: 1865
+        width: 545
+        height: 240
+      alignment: 9
+      pivot: {x: 0.56330276, y: 0.49166667}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6607,12 +6607,12 @@ TextureImporter:
       name: Angle_294
       rect:
         serializedVersion: 2
-        x: 4608
-        y: 1536
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1809
+        y: 1865
+        width: 542
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5608856, y: 0.49186993}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6629,12 +6629,12 @@ TextureImporter:
       name: Angle_295
       rect:
         serializedVersion: 2
-        x: 5120
-        y: 1536
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 6702
+        y: 1601
+        width: 539
+        height: 251
+      alignment: 9
+      pivot: {x: 0.56029683, y: 0.49003986}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6651,12 +6651,12 @@ TextureImporter:
       name: Angle_296
       rect:
         serializedVersion: 2
-        x: 5632
-        y: 1536
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 4515
+        y: 1601
+        width: 536
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5578358, y: 0.4921875}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6673,12 +6673,12 @@ TextureImporter:
       name: Angle_297
       rect:
         serializedVersion: 2
-        x: 6144
-        y: 1536
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2343
+        y: 1601
+        width: 532
+        height: 262
+      alignment: 9
+      pivot: {x: 0.556391, y: 0.4923664}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6695,12 +6695,12 @@ TextureImporter:
       name: Angle_298
       rect:
         serializedVersion: 2
-        x: 6656
-        y: 1536
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 6109
+        y: 1327
+        width: 529
+        height: 267
+      alignment: 9
+      pivot: {x: 0.55576557, y: 0.4906367}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6717,12 +6717,12 @@ TextureImporter:
       name: Angle_299
       rect:
         serializedVersion: 2
-        x: 7168
-        y: 1536
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3438
+        y: 1327
+        width: 525
+        height: 272
+      alignment: 9
+      pivot: {x: 0.5542857, y: 0.49264705}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6739,12 +6739,12 @@ TextureImporter:
       name: Angle_300
       rect:
         serializedVersion: 2
-        x: 7680
-        y: 1536
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1286
+        y: 1880
+        width: 521
+        height: 277
+      alignment: 9
+      pivot: {x: 0.55278313, y: 0.49097472}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6761,12 +6761,12 @@ TextureImporter:
       name: Angle_301
       rect:
         serializedVersion: 2
-        x: 8192
-        y: 1536
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 7606
+        y: 1024
+        width: 517
+        height: 281
+      alignment: 9
+      pivot: {x: 0.55125725, y: 0.4911032}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6783,12 +6783,12 @@ TextureImporter:
       name: Angle_302
       rect:
         serializedVersion: 2
-        x: 8704
-        y: 1536
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 6057
+        y: 1024
+        width: 513
+        height: 286
+      alignment: 9
+      pivot: {x: 0.5497076, y: 0.493007}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6805,12 +6805,12 @@ TextureImporter:
       name: Angle_303
       rect:
         serializedVersion: 2
-        x: 9216
-        y: 1536
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3971
+        y: 1024
+        width: 509
+        height: 291
+      alignment: 9
+      pivot: {x: 0.5481336, y: 0.49140894}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6827,12 +6827,12 @@ TextureImporter:
       name: Angle_304
       rect:
         serializedVersion: 2
-        x: 0
+        x: 1901
         y: 1024
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 505
+        height: 296
+      alignment: 9
+      pivot: {x: 0.54653466, y: 0.49324325}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6849,12 +6849,12 @@ TextureImporter:
       name: Angle_305
       rect:
         serializedVersion: 2
-        x: 512
+        x: 895
         y: 1024
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 501
+        height: 301
+      alignment: 9
+      pivot: {x: 0.5449102, y: 0.49169436}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6871,12 +6871,12 @@ TextureImporter:
       name: Angle_306
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 1024
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 5685
+        y: 685
+        width: 495
+        height: 305
+      alignment: 9
+      pivot: {x: 0.5434343, y: 0.4918033}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6893,12 +6893,12 @@ TextureImporter:
       name: Angle_307
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 1024
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 7424
+        y: 362
+        width: 491
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5417515, y: 0.4903226}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6915,12 +6915,12 @@ TextureImporter:
       name: Angle_308
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 1024
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 4929
+        y: 362
+        width: 485
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5402062, y: 0.4920635}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6937,12 +6937,12 @@ TextureImporter:
       name: Angle_309
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 1024
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3963
+        y: 362
+        width: 481
+        height: 320
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.490625}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6959,12 +6959,12 @@ TextureImporter:
       name: Angle_310
       rect:
         serializedVersion: 2
-        x: 3072
-        y: 1024
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3693
+        y: 685
+        width: 475
+        height: 324
+      alignment: 9
+      pivot: {x: 0.5368421, y: 0.49074075}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6981,12 +6981,12 @@ TextureImporter:
       name: Angle_311
       rect:
         serializedVersion: 2
-        x: 3584
-        y: 1024
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3221
+        y: 685
+        width: 470
+        height: 328
+      alignment: 9
+      pivot: {x: 0.5361702, y: 0.49085367}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7003,12 +7003,12 @@ TextureImporter:
       name: Angle_312
       rect:
         serializedVersion: 2
-        x: 4096
-        y: 1024
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2283
+        y: 685
+        width: 464
+        height: 333
+      alignment: 9
+      pivot: {x: 0.5344828, y: 0.4894895}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7025,12 +7025,12 @@ TextureImporter:
       name: Angle_313
       rect:
         serializedVersion: 2
-        x: 4608
-        y: 1024
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1356
+        y: 685
+        width: 459
+        height: 337
+      alignment: 9
+      pivot: {x: 0.5315904, y: 0.48961425}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7047,12 +7047,12 @@ TextureImporter:
       name: Angle_314
       rect:
         serializedVersion: 2
-        x: 5120
-        y: 1024
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 439
+        y: 1029
+        width: 454
+        height: 342
+      alignment: 9
+      pivot: {x: 0.530837, y: 0.4883041}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7069,12 +7069,12 @@ TextureImporter:
       name: Angle_315
       rect:
         serializedVersion: 2
-        x: 5632
-        y: 1024
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 439
+        y: 1721
+        width: 447
+        height: 346
+      alignment: 9
+      pivot: {x: 0.5302013, y: 0.4884393}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7091,12 +7091,12 @@ TextureImporter:
       name: Angle_316
       rect:
         serializedVersion: 2
-        x: 6144
-        y: 1024
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 439
+        y: 2421
+        width: 441
+        height: 350
+      alignment: 9
+      pivot: {x: 0.5283447, y: 0.48857144}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7113,12 +7113,12 @@ TextureImporter:
       name: Angle_317
       rect:
         serializedVersion: 2
-        x: 6656
-        y: 1024
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 0
+        y: 4884
+        width: 435
+        height: 354
+      alignment: 9
+      pivot: {x: 0.5264368, y: 0.48870057}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7135,12 +7135,12 @@ TextureImporter:
       name: Angle_318
       rect:
         serializedVersion: 2
-        x: 7168
-        y: 1024
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 0
+        y: 6737
+        width: 429
+        height: 357
+      alignment: 9
+      pivot: {x: 0.5244755, y: 0.48739496}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7157,12 +7157,12 @@ TextureImporter:
       name: Angle_319
       rect:
         serializedVersion: 2
-        x: 7680
-        y: 1024
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 0
+        y: 7096
+        width: 423
+        height: 362
+      alignment: 9
+      pivot: {x: 0.5224586, y: 0.48618785}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7179,12 +7179,12 @@ TextureImporter:
       name: Angle_320
       rect:
         serializedVersion: 2
-        x: 8192
-        y: 1024
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 0
+        y: 7824
+        width: 416
+        height: 366
+      alignment: 9
+      pivot: {x: 0.52163464, y: 0.4863388}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7201,12 +7201,12 @@ TextureImporter:
       name: Angle_321
       rect:
         serializedVersion: 2
-        x: 8704
-        y: 1024
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 439
+        y: 3929
+        width: 410
+        height: 370
+      alignment: 9
+      pivot: {x: 0.5195122, y: 0.4864865}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7223,12 +7223,12 @@ TextureImporter:
       name: Angle_322
       rect:
         serializedVersion: 2
-        x: 9216
-        y: 1024
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 439
+        y: 4673
+        width: 403
+        height: 373
+      alignment: 9
+      pivot: {x: 0.5186104, y: 0.48793566}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7245,12 +7245,12 @@ TextureImporter:
       name: Angle_323
       rect:
         serializedVersion: 2
-        x: 0
-        y: 512
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 439
+        y: 6219
+        width: 396
+        height: 377
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.48806366}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7267,12 +7267,12 @@ TextureImporter:
       name: Angle_324
       rect:
         serializedVersion: 2
-        x: 512
-        y: 512
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 439
+        y: 7779
+        width: 389
+        height: 380
+      alignment: 9
+      pivot: {x: 0.5141388, y: 0.4868421}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7289,12 +7289,12 @@ TextureImporter:
       name: Angle_325
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 512
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 895
+        y: 1709
+        width: 382
+        height: 384
+      alignment: 9
+      pivot: {x: 0.513089, y: 0.48697916}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7311,12 +7311,12 @@ TextureImporter:
       name: Angle_326
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 512
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 895
+        y: 3679
+        width: 374
+        height: 388
+      alignment: 9
+      pivot: {x: 0.51069516, y: 0.48711342}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7333,12 +7333,12 @@ TextureImporter:
       name: Angle_327
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 512
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 895
+        y: 4887
+        width: 367
+        height: 390
+      alignment: 9
+      pivot: {x: 0.5095368, y: 0.4871795}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7355,12 +7355,12 @@ TextureImporter:
       name: Angle_328
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 512
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 895
+        y: 6495
+        width: 360
+        height: 394
+      alignment: 9
+      pivot: {x: 0.50555557, y: 0.48730963}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7377,12 +7377,12 @@ TextureImporter:
       name: Angle_329
       rect:
         serializedVersion: 2
-        x: 3072
-        y: 512
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 895
+        y: 7287
+        width: 353
+        height: 397
+      alignment: 9
+      pivot: {x: 0.5042493, y: 0.48866498}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7399,12 +7399,12 @@ TextureImporter:
       name: Angle_330
       rect:
         serializedVersion: 2
-        x: 3584
-        y: 512
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1286
+        y: 2989
+        width: 345
+        height: 400
+      alignment: 9
+      pivot: {x: 0.5014493, y: 0.4875}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7421,12 +7421,12 @@ TextureImporter:
       name: Angle_331
       rect:
         serializedVersion: 2
-        x: 4096
-        y: 512
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1286
+        y: 4629
+        width: 337
+        height: 403
+      alignment: 9
+      pivot: {x: 0.5014837, y: 0.48883376}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7443,12 +7443,12 @@ TextureImporter:
       name: Angle_332
       rect:
         serializedVersion: 2
-        x: 4608
-        y: 512
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1286
+        y: 6281
+        width: 329
+        height: 406
+      alignment: 9
+      pivot: {x: 0.49848023, y: 0.48768473}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7465,12 +7465,12 @@ TextureImporter:
       name: Angle_333
       rect:
         serializedVersion: 2
-        x: 5120
-        y: 512
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1809
+        y: 2113
+        width: 322
+        height: 408
+      alignment: 9
+      pivot: {x: 0.49689442, y: 0.4877451}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7487,12 +7487,12 @@ TextureImporter:
       name: Angle_334
       rect:
         serializedVersion: 2
-        x: 5632
-        y: 512
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1809
+        y: 2933
+        width: 314
+        height: 411
+      alignment: 9
+      pivot: {x: 0.4936306, y: 0.4890511}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7509,12 +7509,12 @@ TextureImporter:
       name: Angle_335
       rect:
         serializedVersion: 2
-        x: 6144
-        y: 512
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1809
+        y: 4609
+        width: 305
+        height: 414
+      alignment: 9
+      pivot: {x: 0.4918033, y: 0.4879227}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7531,12 +7531,12 @@ TextureImporter:
       name: Angle_336
       rect:
         serializedVersion: 2
-        x: 6656
-        y: 512
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1809
+        y: 6297
+        width: 298
+        height: 416
+      alignment: 9
+      pivot: {x: 0.4899329, y: 0.48798078}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7553,12 +7553,12 @@ TextureImporter:
       name: Angle_337
       rect:
         serializedVersion: 2
-        x: 7168
-        y: 512
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2133
+        y: 2345
+        width: 290
+        height: 418
+      alignment: 9
+      pivot: {x: 0.4862069, y: 0.48803827}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7575,12 +7575,12 @@ TextureImporter:
       name: Angle_338
       rect:
         serializedVersion: 2
-        x: 7680
-        y: 512
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2133
+        y: 4051
+        width: 281
+        height: 420
+      alignment: 9
+      pivot: {x: 0.48398575, y: 0.48809522}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7597,12 +7597,12 @@ TextureImporter:
       name: Angle_339
       rect:
         serializedVersion: 2
-        x: 8192
-        y: 512
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2133
+        y: 6187
+        width: 273
+        height: 422
+      alignment: 9
+      pivot: {x: 0.47985348, y: 0.48815167}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7619,12 +7619,12 @@ TextureImporter:
       name: Angle_340
       rect:
         serializedVersion: 2
-        x: 8704
-        y: 512
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2425
+        y: 2774
+        width: 264
+        height: 424
+      alignment: 9
+      pivot: {x: 0.47727272, y: 0.48820755}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7641,12 +7641,12 @@ TextureImporter:
       name: Angle_341
       rect:
         serializedVersion: 2
-        x: 9216
-        y: 512
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2425
+        y: 4506
+        width: 256
+        height: 426
+      alignment: 9
+      pivot: {x: 0.4765625, y: 0.48826292}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7663,12 +7663,12 @@ TextureImporter:
       name: Angle_342
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2425
+        y: 5364
+        width: 248
+        height: 428
+      alignment: 9
+      pivot: {x: 0.4717742, y: 0.48831776}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7685,12 +7685,12 @@ TextureImporter:
       name: Angle_343
       rect:
         serializedVersion: 2
-        x: 512
-        y: 0
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2425
+        y: 7105
+        width: 239
+        height: 429
+      alignment: 9
+      pivot: {x: 0.46861926, y: 0.48951048}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7707,12 +7707,12 @@ TextureImporter:
       name: Angle_344
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 0
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2691
+        y: 4022
+        width: 231
+        height: 431
+      alignment: 9
+      pivot: {x: 0.46753246, y: 0.48955917}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7729,12 +7729,12 @@ TextureImporter:
       name: Angle_345
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 0
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2691
+        y: 5776
+        width: 223
+        height: 433
+      alignment: 9
+      pivot: {x: 0.4618834, y: 0.4896074}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7751,12 +7751,12 @@ TextureImporter:
       name: Angle_346
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 0
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2691
+        y: 7536
+        width: 214
+        height: 433
+      alignment: 9
+      pivot: {x: 0.45794392, y: 0.4896074}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7773,12 +7773,12 @@ TextureImporter:
       name: Angle_347
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 0
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3132
+        y: 3747
+        width: 206
+        height: 435
+      alignment: 9
+      pivot: {x: 0.4563107, y: 0.48965517}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7795,12 +7795,12 @@ TextureImporter:
       name: Angle_348
       rect:
         serializedVersion: 2
-        x: 3072
-        y: 0
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2925
+        y: 5530
+        width: 198
+        height: 436
+      alignment: 9
+      pivot: {x: 0.44949496, y: 0.4885321}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7817,12 +7817,12 @@ TextureImporter:
       name: Angle_349
       rect:
         serializedVersion: 2
-        x: 3584
-        y: 0
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2925
+        y: 6862
+        width: 189
+        height: 437
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.48970252}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7839,12 +7839,12 @@ TextureImporter:
       name: Angle_350
       rect:
         serializedVersion: 2
-        x: 4096
-        y: 0
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2925
+        y: 7740
+        width: 181
+        height: 437
+      alignment: 9
+      pivot: {x: 0.44198895, y: 0.48970252}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7861,12 +7861,12 @@ TextureImporter:
       name: Angle_351
       rect:
         serializedVersion: 2
-        x: 4608
-        y: 0
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3132
+        y: 5960
+        width: 173
+        height: 439
+      alignment: 9
+      pivot: {x: 0.433526, y: 0.48974943}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7883,12 +7883,12 @@ TextureImporter:
       name: Angle_352
       rect:
         serializedVersion: 2
-        x: 5120
-        y: 0
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3132
+        y: 7738
+        width: 165
+        height: 439
+      alignment: 9
+      pivot: {x: 0.43030304, y: 0.48974943}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7905,12 +7905,12 @@ TextureImporter:
       name: Angle_353
       rect:
         serializedVersion: 2
-        x: 5632
-        y: 0
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3340
+        y: 4443
+        width: 156
+        height: 439
+      alignment: 9
+      pivot: {x: 0.42307693, y: 0.48974943}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7927,12 +7927,12 @@ TextureImporter:
       name: Angle_354
       rect:
         serializedVersion: 2
-        x: 6144
-        y: 0
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3340
+        y: 5334
+        width: 148
+        height: 440
+      alignment: 9
+      pivot: {x: 0.4189189, y: 0.4909091}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7949,12 +7949,12 @@ TextureImporter:
       name: Angle_355
       rect:
         serializedVersion: 2
-        x: 6656
-        y: 0
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3766
+        y: 5776
+        width: 140
+        height: 441
+      alignment: 9
+      pivot: {x: 0.41428572, y: 0.48979592}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7971,12 +7971,12 @@ TextureImporter:
       name: Angle_356
       rect:
         serializedVersion: 2
-        x: 7168
-        y: 0
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3477
+        y: 6226
+        width: 135
+        height: 441
+      alignment: 9
+      pivot: {x: 0.42222223, y: 0.48979592}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7993,12 +7993,12 @@ TextureImporter:
       name: Angle_357
       rect:
         serializedVersion: 2
-        x: 7680
-        y: 0
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3746
+        y: 6226
+        width: 130
+        height: 441
+      alignment: 9
+      pivot: {x: 0.43076923, y: 0.48979592}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8015,12 +8015,12 @@ TextureImporter:
       name: Angle_358
       rect:
         serializedVersion: 2
-        x: 8192
-        y: 0
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3735
+        y: 6669
+        width: 125
+        height: 441
+      alignment: 9
+      pivot: {x: 0.44, y: 0.48979592}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8037,12 +8037,12 @@ TextureImporter:
       name: Angle_359
       rect:
         serializedVersion: 2
-        x: 8704
-        y: 0
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3742
+        y: 5334
+        width: 124
+        height: 440
+      alignment: 9
+      pivot: {x: 0.46774194, y: 0.4909091}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []

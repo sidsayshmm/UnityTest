@@ -25,6 +25,11 @@ public sealed class ShipSpriteBakerWindow : EditorWindow
 	[SerializeField] private string outputFolder = "Assets/Textures";
 	[SerializeField] private string baseFileName = "Ship360";
 
+	// Trimming & Packing
+	[SerializeField] private float alphaThreshold = 0.01f;
+	[SerializeField] private int trimPadding = 2;
+	[SerializeField] private int maxAtlasSize = 8192;
+
 	private void OnGUI()
 	{
 		EditorGUILayout.LabelField("Source Prefab", EditorStyles.boldLabel);
@@ -33,7 +38,7 @@ public sealed class ShipSpriteBakerWindow : EditorWindow
 		EditorGUILayout.Space();
 		EditorGUILayout.LabelField("Camera & Render", EditorStyles.boldLabel);
 		frameSize = Mathf.Clamp(EditorGUILayout.IntField("Frame Size (px)", frameSize), 32, 4096);
-		columns = Mathf.Clamp(EditorGUILayout.IntField("Columns", columns), 1, 360);
+		columns = Mathf.Clamp(EditorGUILayout.IntField("Columns (legacy grid)", columns), 1, 360);
 		orthographic = EditorGUILayout.Toggle("Orthographic Camera", orthographic);
 		if (!orthographic)
 		{
@@ -42,6 +47,12 @@ public sealed class ShipSpriteBakerWindow : EditorWindow
 		cameraPadding = Mathf.Clamp(EditorGUILayout.FloatField("Camera Padding", cameraPadding), 1f, 3f);
 		modelEulerOffset = EditorGUILayout.Vector3Field("Model Euler Offset", modelEulerOffset);
 		backgroundColor = EditorGUILayout.ColorField("Background", backgroundColor);
+
+		EditorGUILayout.Space();
+		EditorGUILayout.LabelField("Trimming & Packing", EditorStyles.boldLabel);
+		alphaThreshold = Mathf.Clamp01(EditorGUILayout.Slider("Alpha Threshold", alphaThreshold, 0f, 1f));
+		trimPadding = Mathf.Clamp(EditorGUILayout.IntField("Trim Padding (px)", trimPadding), 0, 32);
+		maxAtlasSize = Mathf.Clamp(EditorGUILayout.IntField("Max Atlas Size (px)", maxAtlasSize), 256, 16384);
 
 		EditorGUILayout.Space();
 		EditorGUILayout.LabelField("Output", EditorStyles.boldLabel);
@@ -92,12 +103,6 @@ public sealed class ShipSpriteBakerWindow : EditorWindow
 		}
 
 		int totalFrames = 360;
-		int rows = Mathf.CeilToInt(totalFrames / (float)columns);
-		int sheetWidth = frameSize * columns;
-		int sheetHeight = frameSize * rows;
-
-		var sheet = new Texture2D(sheetWidth, sheetHeight, TextureFormat.RGBA32, false, true);
-		sheet.name = baseFileName + "_Sheet";
 
 		var pr = new PreviewRenderUtility();
 		try
@@ -148,14 +153,15 @@ public sealed class ShipSpriteBakerWindow : EditorWindow
 			pr.camera.transform.position = new Vector3(0f, 20f, -20f);
 			pr.camera.transform.rotation = Quaternion.Euler(45f, 0f, 0f);
 
-			var pixelBlock = new Color[frameSize * frameSize];
-
 			// Create one RT and reuse it for all frames (more stable, less GC)
 			var rt = new RenderTexture(frameSize, frameSize, 24, RenderTextureFormat.ARGB32);
 			rt.antiAliasing = 1; // keep it simple and stable
 			rt.Create();
 			var prevActive = RenderTexture.active;
 			pr.camera.targetTexture = rt;
+
+			var trimmedFrames = new List<Texture2D>(totalFrames);
+			var pivots = new List<Vector2>(totalFrames);
 
 			for (int angle = 0; angle < totalFrames; angle++)
 			{
@@ -175,25 +181,54 @@ public sealed class ShipSpriteBakerWindow : EditorWindow
 				frame.Apply();
 				RenderTexture.active = prevActive;
 
-				// Copy into sheet
-				int col = angle % columns;
-				int row = rows - 1 - (angle / columns);
-				pixelBlock = frame.GetPixels();
-				sheet.SetPixels(col * frameSize, row * frameSize, frameSize, frameSize, pixelBlock);
+				// Find tight rect based on alpha
+				var pixels = frame.GetPixels();
+				var tight = FindTightRect(pixels, frameSize, frameSize, alphaThreshold);
+				if (tight.width <= 0 || tight.height <= 0)
+				{
+					// empty -> keep 1x1 at center
+					tight = new RectInt(frameSize / 2, frameSize / 2, 1, 1);
+				}
+				tight = ExpandRect(tight, trimPadding, frameSize, frameSize);
+
+				// Compute pivot so original frame center (0.5,0.5) stays stable
+				Vector2 originalCenterPx = new Vector2(frameSize * 0.5f, frameSize * 0.5f);
+				Vector2 pivotPx = originalCenterPx - new Vector2(tight.x, tight.y);
+				Vector2 pivotNorm = new Vector2(
+					Mathf.InverseLerp(0f, tight.width, pivotPx.x),
+					Mathf.InverseLerp(0f, tight.height, pivotPx.y)
+				);
+				pivotNorm.x = Mathf.Clamp01(pivotNorm.x);
+				pivotNorm.y = Mathf.Clamp01(pivotNorm.y);
+
+				// Extract trimmed texture
+				var trimmed = new Texture2D(tight.width, tight.height, TextureFormat.RGBA32, false, true);
+				var block = frame.GetPixels(tight.x, tight.y, tight.width, tight.height);
+				trimmed.SetPixels(block);
+				trimmed.Apply(false, false); // keep readable for PackTextures
+
+				trimmedFrames.Add(trimmed);
+				pivots.Add(pivotNorm);
+
+				UnityEngine.Object.DestroyImmediate(frame);
 			}
 
 			pr.camera.targetTexture = null;
 			rt.Release();
 
-			sheet.Apply(false, false);
+			// Pack trimmed frames into atlas
+			var atlas = new Texture2D(2, 2, TextureFormat.RGBA32, false, true);
+			atlas.name = baseFileName + "_Atlas";
+			var rects = atlas.PackTextures(trimmedFrames.ToArray(), trimPadding, maxAtlasSize, false);
+			atlas.Apply(false, false);
 
 			// Save PNG
-			var pngBytes = sheet.EncodeToPNG();
+			var pngBytes = atlas.EncodeToPNG();
 			string pngPath = Path.Combine(outputFolder, baseFileName + ".png");
 			File.WriteAllBytes(pngPath, pngBytes);
 			AssetDatabase.ImportAsset(pngPath);
 
-			// Configure importer for multiple sprites
+			// Configure importer for multiple sprites using packed rects and pivots
 			var importer = (TextureImporter)AssetImporter.GetAtPath(pngPath);
 			importer.textureType = TextureImporterType.Sprite;
 			importer.spriteImportMode = SpriteImportMode.Multiple;
@@ -202,22 +237,33 @@ public sealed class ShipSpriteBakerWindow : EditorWindow
 			importer.filterMode = FilterMode.Bilinear;
 			importer.textureCompression = TextureImporterCompression.Uncompressed;
 
+			int atlasW = atlas.width;
+			int atlasH = atlas.height;
 			var metaList = new List<SpriteMetaData>(totalFrames);
-			for (int i = 0; i < totalFrames; i++)
+			for (int i = 0; i < rects.Length; i++)
 			{
-				int col = i % columns;
-				int row = rows - 1 - (i / columns);
+				Rect r = rects[i]; // normalized
+				int x = Mathf.RoundToInt(r.x * atlasW);
+				int y = Mathf.RoundToInt(r.y * atlasH);
+				int w = Mathf.RoundToInt(r.width * atlasW);
+				int h = Mathf.RoundToInt(r.height * atlasH);
 				var meta = new SpriteMetaData
 				{
 					name = $"Angle_{i:000}",
-					rect = new Rect(col * frameSize, row * frameSize, frameSize, frameSize),
-					alignment = (int)SpriteAlignment.Center,
-					pivot = new Vector2(0.5f, 0.5f)
+					rect = new Rect(x, y, w, h),
+					alignment = (int)SpriteAlignment.Custom,
+					pivot = pivots[i]
 				};
 				metaList.Add(meta);
 			}
 			importer.spritesheet = metaList.ToArray();
 			importer.SaveAndReimport();
+
+			// Cleanup trimmed textures (no longer needed)
+			for (int i = 0; i < trimmedFrames.Count; i++)
+			{
+				UnityEngine.Object.DestroyImmediate(trimmedFrames[i]);
+			}
 
 			// Create ScriptableObject with references
 			var sheetAsset = AssetDatabase.LoadAssetAtPath<Texture2D>(pngPath);
@@ -233,10 +279,10 @@ public sealed class ShipSpriteBakerWindow : EditorWindow
 			var sheetSO = CreateInstance<SpriteSheet360>();
 			sheetSO.texture = sheetAsset;
 			sheetSO.frames = spriteList.ToArray();
-			sheetSO.frameWidth = frameSize;
-			sheetSO.frameHeight = frameSize;
-			sheetSO.columns = columns;
-			sheetSO.rows = rows;
+			sheetSO.frameWidth = 0; // variable
+			sheetSO.frameHeight = 0; // variable
+			sheetSO.columns = 0; // variable packing
+			sheetSO.rows = 0; // variable packing
 			sheetSO.frameCount = totalFrames;
 			sheetSO.degreesPerFrame = 1;
 			sheetSO.zeroDegreesFacing = 0; // 0 = +Z direction
@@ -301,6 +347,36 @@ public sealed class ShipSpriteBakerWindow : EditorWindow
 			current = combined;
 		}
 		return AssetDatabase.IsValidFolder(assetPath);
+	}
+
+	private static RectInt FindTightRect(Color[] pixels, int width, int height, float alphaThreshold)
+	{
+		int minX = width, minY = height, maxX = -1, maxY = -1;
+		for (int y = 0; y < height; y++)
+		{
+			int row = y * width;
+			for (int x = 0; x < width; x++)
+			{
+				if (pixels[row + x].a > alphaThreshold)
+				{
+					if (x < minX) minX = x;
+					if (y < minY) minY = y;
+					if (x > maxX) maxX = x;
+					if (y > maxY) maxY = y;
+				}
+			}
+		}
+		if (maxX < minX || maxY < minY) return new RectInt(0, 0, 0, 0);
+		return new RectInt(minX, minY, (maxX - minX) + 1, (maxY - minY) + 1);
+	}
+
+	private static RectInt ExpandRect(RectInt rect, int pad, int limitW, int limitH)
+	{
+		int x = Mathf.Max(0, rect.x - pad);
+		int y = Mathf.Max(0, rect.y - pad);
+		int w = Mathf.Min(limitW - x, rect.width + pad * 2);
+		int h = Mathf.Min(limitH - y, rect.height + pad * 2);
+		return new RectInt(x, y, w, h);
 	}
 }
 

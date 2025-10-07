@@ -374,10 +374,10 @@ MonoBehaviour:
   - {fileID: 7231620462179059988, guid: 485c924b81b268a45b7b91c5093bd60f, type: 3}
   - {fileID: -7025555351573995552, guid: 485c924b81b268a45b7b91c5093bd60f, type: 3}
   - {fileID: 8161470167367055627, guid: 485c924b81b268a45b7b91c5093bd60f, type: 3}
-  frameWidth: 512
-  frameHeight: 512
-  columns: 19
-  rows: 19
+  frameWidth: 0
+  frameHeight: 0
+  columns: 0
+  rows: 0
   frameCount: 360
   degreesPerFrame: 1
   zeroDegreesFacing: 0
