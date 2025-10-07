@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using UnityEditor;
 using UnityEngine;
+using UnityEngine.Rendering;
 
 public sealed class ShipSpriteBakerWindow : EditorWindow
 {
@@ -104,6 +105,11 @@ public sealed class ShipSpriteBakerWindow : EditorWindow
 
 		int totalFrames = 360;
 
+		// Save previous settings
+		Light prevSun = RenderSettings.sun;
+		ShadowQuality prevShadowQuality = QualitySettings.shadows;
+		float prevShadowDistance = QualitySettings.shadowDistance;
+
 		var pr = new PreviewRenderUtility();
 		try
 		{
@@ -125,6 +131,11 @@ public sealed class ShipSpriteBakerWindow : EditorWindow
 			var lightGO = new GameObject("TempDirectionalLight");
 			var light = lightGO.AddComponent<Light>();
 			light.type = LightType.Directional;
+			light.shadows = LightShadows.Soft;
+			light.shadowStrength = 1f;
+			light.shadowBias = 0.05f;
+			light.shadowNormalBias = 0.4f;
+			light.shadowNearPlane = 0.1f;
 			if (sun != null)
 			{
 				light.transform.rotation = sun.transform.rotation;
@@ -139,12 +150,25 @@ public sealed class ShipSpriteBakerWindow : EditorWindow
 			}
 			pr.AddSingleGO(lightGO);
 
+			// Temporarily make this the sun and bump shadow quality
+			RenderSettings.sun = light;
+			QualitySettings.shadows = ShadowQuality.All;
+			QualitySettings.shadowDistance = Mathf.Max(prevShadowDistance, 500f);
+
 			// Instantiate prefab into preview world
 			var instance = (GameObject)PrefabUtility.InstantiatePrefab(shipPrefab);
 			instance.transform.position = Vector3.zero;
 			instance.transform.rotation = Quaternion.identity;
 			instance.transform.localScale = Vector3.one;
 			pr.AddSingleGO(instance);
+
+			// Ensure renderers cast and receive shadows
+			var allRenderers = instance.GetComponentsInChildren<Renderer>(true);
+			foreach (var r in allRenderers)
+			{
+				r.shadowCastingMode = ShadowCastingMode.On;
+				r.receiveShadows = true;
+			}
 
 			// Fixed camera viewpoint as requested
 			pr.camera.nearClipPlane = 0.01f;
@@ -302,6 +326,11 @@ public sealed class ShipSpriteBakerWindow : EditorWindow
 		}
 		finally
 		{
+			// Restore global lighting/shadow settings
+			RenderSettings.sun = prevSun;
+			QualitySettings.shadows = prevShadowQuality;
+			QualitySettings.shadowDistance = prevShadowDistance;
+
 			pr.Cleanup();
 			RenderTexture.active = null;
 		}
