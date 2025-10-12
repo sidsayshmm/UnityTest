@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 2100000, guid: 7c9669ea3590bd94ebc8ccbca8c39817, type: 2}
+  m_SkyboxMaterial: {fileID: 2100000, guid: 860a66ca4259b384f9ec01b687f71c3c, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -119,11 +119,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!4 &260622014 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 958109881825651795, guid: 5fb8f2e166a6200419c3fc6bdbfc68ca, type: 3}
-  m_PrefabInstance: {fileID: 1220533363622412438}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &330585543
 GameObject:
   m_ObjectHideFlags: 0
@@ -290,7 +285,7 @@ Light:
   serializedVersion: 11
   m_Type: 1
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 4
+  m_Intensity: 5
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -478,9 +473,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 437c4e10ec73c3244add89b67df93731, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sheet: {fileID: 11400000, guid: e4d602bf22187af42b015062e30b6203, type: 2}
-  directionSource: {fileID: 260622014}
-  billboardToCamera: 0
 --- !u!212 &1014290848
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -533,7 +525,7 @@ SpriteRenderer:
   m_Size: {x: 0.4, y: 1.36}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1014290849
